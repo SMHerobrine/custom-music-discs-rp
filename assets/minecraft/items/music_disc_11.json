@@ -1,0 +1,747 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/music_disc_11"
+    },
+    "cases": [
+	  {
+        "when": "revenge",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/revenge"
+        }
+      },
+      {
+        "when": "fallen_kingdom",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/fallen_kingdom"
+        }
+      },
+	  {
+        "when": "tnt",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/tnt"
+        }
+      },
+	  {
+        "when": "jsab_menu",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/jsab_menu"
+        }
+      },
+	  {
+        "when": "jsab_milkyways",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/jsab_milkyways"
+        }
+      },
+	  {
+        "when": "jsab_chronos",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/jsab_chronos"
+        }
+      },
+	  {
+        "when": "jsab_gatekeeper",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/jsab_gatekeeper"
+        }
+      },
+	  {
+        "when": "jsab_corrupted",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/jsab_corrupted"
+        }
+      },
+	  {
+        "when": "mcacapella",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/mcacapella"
+        }
+      },
+	  {
+        "when": "mcnoteblock",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/mcnoteblock"
+        }
+      },
+	  {
+        "when": "fortstress",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/fortstress"
+        }
+      },
+	  {
+        "when": "mcacapella2",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/mcacapella2"
+        }
+      },
+	  {
+        "when": "pleasehold",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/pleasehold"
+        }
+      },
+	  {
+        "when": "pleasehold_unhinged",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/pleasehold_unhinged"
+        }
+      },
+	  {
+        "when": "soothing_aquarium",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/soothing_aquarium"
+        }
+      },
+	  {
+        "when": "soothing_beach",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/soothing_beach"
+        }
+      },
+	  {
+        "when": "soothing_cherrygrove",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/soothing_cherrygrove"
+        }
+      },
+	  {
+        "when": "soothing_dreamydesert",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/soothing_dreamydesert"
+        }
+      },
+	  {
+        "when": "soothing_fireplace",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/soothing_fireplace"
+        }
+      },
+	  {
+        "when": "soothing_glowingcaves",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/soothing_glowingcaves"
+        }
+      },
+	  {
+        "when": "soothing_rainyswamp",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/soothing_rainyswamp"
+        }
+      },
+	  {
+        "when": "soothing_fallingsnow",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/soothing_fallingsnow"
+        }
+      },
+	  {
+        "when": "soothing_serenesnow",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/soothing_serenesnow"
+        }
+      },
+	  {
+        "when": "subwoolfer_acapella",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/subwoolfer_acapella"
+        }
+      },
+	  {
+        "when": "sweden_acapella",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/sweden_acapella"
+        }
+      },
+	  {
+        "when": "wethands_acapella",
+        "model": {
+          "type": "model",
+          "model": "item/wave1/wethands_acapella"
+        }
+      },
+	  {
+        "when": "offpeppersteak",
+        "model": {
+          "type": "model",
+          "model": "item/wave2/offpeppersteak"
+        }
+      },
+	  {
+        "when": "dan_nether",
+        "model": {
+          "type": "model",
+          "model": "item/wave2/dan_nether"
+        }
+      },
+	  {
+        "when": "dan_crafting",
+        "model": {
+          "type": "model",
+          "model": "item/wave2/dan_crafting"
+        }
+      },
+	  {
+        "when": "dan_cringe",
+        "model": {
+          "type": "model",
+          "model": "item/wave2/dan_cringe"
+        }
+      },
+	  {
+        "when": "dan_song",
+        "model": {
+          "type": "model",
+          "model": "item/wave2/dan_song"
+        }
+      },
+	  {
+        "when": "dan_intro",
+        "model": {
+          "type": "model",
+          "model": "item/wave2/dan_intro"
+        }
+      },
+	  {
+        "when": "dan_intro2",
+        "model": {
+          "type": "model",
+          "model": "item/wave2/dan_intro2"
+        }
+      },
+	  {
+        "when": "dan_gingerbread_dan",
+        "model": {
+          "type": "model",
+          "model": "item/wave3/dan_gingerbread_dan"
+        }
+      },
+	  {
+        "when": "dan_monster",
+        "model": {
+          "type": "model",
+          "model": "item/wave3/dan_monster"
+        }
+      },
+	  {
+        "when": "dan_im_dead",
+        "model": {
+          "type": "model",
+          "model": "item/wave3/dan_im_dead"
+        }
+      },
+	  {
+        "when": "dan_happening",
+        "model": {
+          "type": "model",
+          "model": "item/wave3/dan_happening"
+        }
+      },
+	  {
+        "when": "dan_smashing_it",
+        "model": {
+          "type": "model",
+          "model": "item/wave3/dan_smashing_it"
+        }
+      },
+	  {
+        "when": "dan_dab_lasagna",
+        "model": {
+          "type": "model",
+          "model": "item/wave3/dan_dab_lasagna"
+        }
+      },
+	  {
+        "when": "bitch_lasagna",
+        "model": {
+          "type": "model",
+          "model": "item/wave3/bitch_lasagna"
+        }
+      },
+	  {
+        "when": "congratulations",
+        "model": {
+          "type": "model",
+          "model": "item/wave3/congratulations"
+        }
+      },
+	  {
+        "when": "mario_in_the_final",
+        "model": {
+          "type": "model",
+          "model": "item/wave3/mario_in_the_final"
+        }
+      },
+	  {
+        "when": "never_gonna_give_you_up",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/never_gonna_give_you_up"
+        }
+      },
+	  {
+        "when": "revenge_acapella",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/revenge_acapella"
+        }
+      },
+	  {
+        "when": "mice_on_venus_acapella",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mice_on_venus_acapella"
+        }
+      },
+	  {
+        "when": "wave4_sweden_acapella",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/wave4_sweden_acapella"
+        }
+      },
+	  {
+        "when": "subwoofer_lullaby_orchestra",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/subwoofer_lullaby_orchestra"
+        }
+      },
+	  {
+        "when": "sweden_hans_zimmer",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/sweden_hans_zimmer"
+        }
+      },
+	  {
+        "when": "mice_on_venus_sad_film_score",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mice_on_venus_sad_film_score"
+        }
+      },
+	  {
+        "when": "aria_math_epic_soundtrack",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/aria_math_epic_soundtrack"
+        }
+      },
+	  {
+        "when": "wet_hands_uplifting_adventurous_soundtrack",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/wet_hands_uplifting_adventurous_soundtrack"
+        }
+      },
+	  {
+        "when": "mcsoundtrack_anime_opening_song",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcsoundtrack_anime_opening_song"
+        }
+      },
+	  {
+        "when": "living_mice_synthwave",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/living_mice_synthwave"
+        }
+      },
+	  {
+        "when": "sweden_lofi_hiphop_remix",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/sweden_lofi_hiphop_remix"
+        }
+      },
+	  {
+        "when": "haggstrom_john_williams",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/haggstrom_john_williams"
+        }
+      },
+	  {
+        "when": "moog_city_orchestral_synthwave_remix",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/moog_city_orchestral_synthwave_remix"
+        }
+      },
+	  {
+        "when": "danny_disney_movie_soundtrack",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/danny_disney_movie_soundtrack"
+        }
+      },
+	  {
+        "when": "dry_hands_funky_synthwave",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/dry_hands_funky_synthwave"
+        }
+      },
+	  {
+        "when": "sweden_hans_zimmer_slowed_reverb",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/sweden_hans_zimmer_slowed_reverb"
+        }
+      },
+	  {
+        "when": "aria_math_synthwave",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/aria_math_synthwave"
+        }
+      },
+	  {
+        "when": "pigstep_epic_orchestral_remix",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/pigstep_epic_orchestral_remix"
+        }
+      },
+	  {
+        "when": "c418_legacy",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/c418_legacy"
+        }
+      },
+	  {
+        "when": "mcrap_boom_boom_boom",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_boom_boom_boom"
+        }
+      },
+	  {
+        "when": "mcrap_quiet_please",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_quiet_please"
+        }
+      },
+	  {
+        "when": "mcrap_bull_is_the_spider",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_bull_is_the_spider"
+        }
+      },
+	  {
+        "when": "mcrap_pigman",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_pigman"
+        }
+      },
+	  {
+        "when": "mcrap_the_ballad_of_bob_the_snow_golem",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_the_ballad_of_bob_the_snow_golem"
+        }
+      },
+	  {
+        "when": "mcrap_creeper_remix",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_creeper_remix"
+        }
+      },
+	  {
+        "when": "mcrap_dont_mess_with_the_endermen",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_dont_mess_with_the_endermen"
+        }
+      },
+	  {
+        "when": "mcrap_ive_got_a_bone",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_ive_got_a_bone"
+        }
+      },
+	  {
+        "when": "mcrap_im_a_zombie",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_im_a_zombie"
+        }
+      },
+	  {
+        "when": "mcrap_the_arch_illager",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_the_arch_illager"
+        }
+      },
+	  {
+        "when": "mcrap_the_last_guardian",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_the_last_guardian"
+        }
+      },
+	  {
+        "when": "mcrap_busy_buzzy_bees",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_busy_buzzy_bees"
+        }
+      },
+	  {
+        "when": "mcrap_skeleton_remix",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_skeleton_remix"
+        }
+      },
+	  {
+        "when": "mcrap_rap_battle",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_rap_battle"
+        }
+      },
+	  {
+        "when": "mcrap_just_another_day",
+        "model": {
+          "type": "model",
+          "model": "item/wave4/mcrap_just_another_day"
+        }
+      },
+	  {
+        "when": "cg5_sweden",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/cg5_sweden"
+        }
+      },
+	  {
+        "when": "hardcore_disc",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/hardcore_disc"
+        }
+      },
+	  {
+        "when": "sweet_dreams",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/sweet_dreams"
+        }
+      },
+	  {
+        "when": "mclofi_relic_remix",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_relic_remix"
+        }
+      },
+	  {
+        "when": "mclofi_crescent_dunes",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_crescent_dunes"
+        }
+      },
+	  {
+        "when": "mclofi_bromeliad",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_bromeliad"
+        }
+      },
+	  {
+        "when": "mclofi_a_familiar_room",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_a_familiar_room"
+        }
+      },
+	  {
+        "when": "mclofi_echo_in_the_wind",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_echo_in_the_wind"
+        }
+      },
+	  {
+        "when": "mclofi_broken_heart_of_ender",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_broken_heart_of_ender"
+        }
+      },
+	  {
+        "when": "mclofi_coral_rise",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_coral_rise"
+        }
+      },
+	  {
+        "when": "mclofi_crimson_forest",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_crimson_forest"
+        }
+      },
+	  {
+        "when": "mclofi_dalarna1",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_dalarna1"
+        }
+      },
+	  {
+        "when": "mclofi_dalarna2",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_dalarna2"
+        }
+      },
+	  {
+        "when": "mclofi_desert_temple",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_desert_temple"
+        }
+      },
+	  {
+        "when": "mclofi_evoker",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_evoker"
+        }
+      },
+	  {
+        "when": "mclofi_ghast",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_ghast"
+        }
+      },
+	  {
+        "when": "mclofi_halland",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_halland"
+        }
+      },
+	  {
+        "when": "mclofi_mooshroom_island",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_mooshroom_island"
+        }
+      },
+	  {
+        "when": "mclofi_the_arch_illager",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_the_arch_illager"
+        }
+      },
+	  {
+        "when": "mclofi_the_well_of_fate",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_the_well_of_fate"
+        }
+      },
+	  {
+        "when": "mclofi_new_worlds_new_adventures",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_new_worlds_new_adventures"
+        }
+      },
+	  {
+        "when": "mclofi_the_coming_war",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_the_coming_war"
+        }
+      },
+	  {
+        "when": "mclofi_a_day_long_awaited",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_a_day_long_awaited"
+        }
+      },
+	  {
+        "when": "mclofi_the_green_expanse",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_the_green_expanse"
+        }
+      },
+	  {
+        "when": "mclofi_blue_ice_white_snow",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_blue_ice_white_snow"
+        }
+      },
+	  {
+        "when": "mclofi_alone_with_the_sky",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_alone_with_the_sky"
+        }
+      },
+	  {
+        "when": "mclofi_a_time_of_legends",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_a_time_of_legends"
+        }
+      },
+	  {
+        "when": "mclofi_lute_skit",
+        "model": {
+          "type": "model",
+          "model": "item/wave5/mclofi_lute_skit"
+        }
+      }
+    ]
+  }
+}
