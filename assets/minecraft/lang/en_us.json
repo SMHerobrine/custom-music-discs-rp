@@ -64,7 +64,6 @@
   "jukebox_song.mcremixed.sweden_lofi_hiphop_remix": "Andreas Zoeller - Sweden (LoFi Hip-Hop Remix)",
   "jukebox_song.mcremixed.haggstrom_john_williams": "Andreas Zoeller - Haggstrom (John Williams Edition)",
   "jukebox_song.mcremixed.moog_city_orchestral_synthwave_remix": "Andreas Zoeller - Moog City (Orchestral Synthwave Remix)",
-  "jukebox_song.mcremixed.haggstrom_john_williams": "Andreas Zoeller - Haggstrom (John Williams Edition)",
   "jukebox_song.mcremixed.danny_disney_movie_soundtrack": "Andreas Zoeller - Danny (Disney Movie Soundtrack Edition)",
   "jukebox_song.mcremixed.dry_hands_funky_synthwave": "Andreas Zoeller - Dry Hands (Funky Synthwave Track Edition)",
   "jukebox_song.mcremixed.sweden_hans_zimmer_slowed_reverb": "Andreas Zoeller - Sweden (Hans Zimmer Edition) (slowed + reverb)",
@@ -120,5 +119,12 @@
   "jukebox_song.mclofi.blue_ice_white_snow": "Hendric Buenck - Blue Ice, White Snow - LoFi Remix (Original: Crispin Hands)",
   "jukebox_song.mclofi.alone_with_the_sky": "Adam Lukas - Alone with the Sky - LoFi Remix (Original: Crispin Hands)",
   "jukebox_song.mclofi.a_time_of_legends": "James Everingham -  A Time of Legends - LoFi Remix (Original: Crispin Hands)",
-  "jukebox_song.mclofi.lute_skit": "Minecraft Legends - Lute Skit"
+  "jukebox_song.mclofi.lute_skit": "Minecraft Legends - Lute Skit",
+
+
+
+  "jukebox_song.cmd.minecraft_shape_your_world": "Douglas Haines x Minecraft - Shape Your World",
+  "jukebox_song.cmd.thefatrat_fly_away": "TheFatRat - Fly Away (feat. Anjulie)",
+  "jukebox_song.cmd.thefatrat_sail_away": "TheFatRat - Sail Away (feat. Laura Brehm)"
+
 }

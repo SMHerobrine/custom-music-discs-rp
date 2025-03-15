@@ -844,5 +844,31 @@
             "stream": true
         }
     ]
+},
+
+
+"music_disc.minecraft_shape_your_world": {
+    "sounds": [
+        {
+            "name": "records/wave6/minecraft_shape_your_world",
+            "stream": true
+        }
+    ]
+},
+"music_disc.thefatrat_fly_away": {
+    "sounds": [
+        {
+            "name": "records/wave6/thefatrat_fly_away",
+            "stream": true
+        }
+    ]
+},
+"music_disc.thefatrat_sail_away": {
+    "sounds": [
+        {
+            "name": "records/wave6/thefatrat_sail_away",
+            "stream": true
+        }
+    ]
 }
 }
