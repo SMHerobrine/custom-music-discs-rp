@@ -741,6 +741,27 @@
           "type": "model",
           "model": "item/wave5/mclofi_lute_skit"
         }
+      },
+    {
+        "when": "minecraft_shape_your_world",
+        "model": {
+          "type": "model",
+          "model": "item/wave6/minecraft_shape_your_world"
+        }
+      },
+          {
+        "when": "thefatrat_fly_away",
+        "model": {
+          "type": "model",
+          "model": "item/wave6/thefatrat_fly_away"
+        }
+      },
+          {
+        "when": "thefatrat_sail_away",
+        "model": {
+          "type": "model",
+          "model": "item/wave6/thefatrat_sail_away"
+        }
       }
     ]
   }
