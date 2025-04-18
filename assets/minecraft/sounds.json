@@ -870,5 +870,126 @@
             "stream": true
         }
     ]
+},
+
+"music_disc.undertale.once_upon_a_time": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/once_upon_a_time",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.fallen_down": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/fallen_down",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.ruins": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/ruins",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.uwa_so_temperate": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/uwa_so_temperate",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.enemy_approaching": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/enemy_approaching",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.ghost_fight": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/ghost_fight",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.determination": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/determination",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.home": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/home",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.home_music_box": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/home_music_box",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.heartache": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/heartache",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.sans": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/sans",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.snowy": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/snowy",
+            "stream": true
+        }
+    ]
+},
+"music_disc.undertale.dogsong": {
+    "sounds": [
+        {
+            "name": "records/wave6/undertale/dogsong",
+            "stream": true
+        }
+    ]
+},
+"music_disc.soothing_farm": {
+    "sounds": [
+        {
+            "name": "records/wave6/soothing_farm",
+            "stream": true
+        }
+    ]
+},
+"music_disc.happy_birthday": {
+    "sounds": [
+        {
+            "name": "records/wave6/happy_birthday",
+            "stream": true
+        }
+    ]
 }
 }
