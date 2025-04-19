@@ -875,7 +875,7 @@
 "music_disc.undertale.once_upon_a_time": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/once_upon_a_time",
+            "name": "records/wave6/undertale/001_once_upon_a_time",
             "stream": true
         }
     ]
@@ -883,7 +883,7 @@
 "music_disc.undertale.fallen_down": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/fallen_down",
+            "name": "records/wave6/undertale/004_fallen_down",
             "stream": true
         }
     ]
@@ -891,7 +891,7 @@
 "music_disc.undertale.ruins": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/ruins",
+            "name": "records/wave6/undertale/005_ruins",
             "stream": true
         }
     ]
@@ -899,7 +899,7 @@
 "music_disc.undertale.uwa_so_temperate": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/uwa_so_temperate",
+            "name": "records/wave6/undertale/006_uwa_so_temperate",
             "stream": true
         }
     ]
@@ -907,7 +907,7 @@
 "music_disc.undertale.enemy_approaching": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/enemy_approaching",
+            "name": "records/wave6/undertale/009_enemy_approaching",
             "stream": true
         }
     ]
@@ -915,7 +915,7 @@
 "music_disc.undertale.ghost_fight": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/ghost_fight",
+            "name": "records/wave6/undertale/010_ghost_fight",
             "stream": true
         }
     ]
@@ -923,7 +923,7 @@
 "music_disc.undertale.determination": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/determination",
+            "name": "records/wave6/undertale/011_determination",
             "stream": true
         }
     ]
@@ -931,7 +931,7 @@
 "music_disc.undertale.home": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/home",
+            "name": "records/wave6/undertale/012_home",
             "stream": true
         }
     ]
@@ -939,7 +939,7 @@
 "music_disc.undertale.home_music_box": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/home_music_box",
+            "name": "records/wave6/undertale/013_home_music_box",
             "stream": true
         }
     ]
@@ -947,7 +947,7 @@
 "music_disc.undertale.heartache": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/heartache",
+            "name": "records/wave6/undertale/014_heartache",
             "stream": true
         }
     ]
@@ -955,7 +955,7 @@
 "music_disc.undertale.sans": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/sans",
+            "name": "records/wave6/undertale/015_sans",
             "stream": true
         }
     ]
@@ -963,7 +963,7 @@
 "music_disc.undertale.snowy": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/snowy",
+            "name": "records/wave6/undertale/017_snowy",
             "stream": true
         }
     ]
@@ -971,7 +971,7 @@
 "music_disc.undertale.dogsong": {
     "sounds": [
         {
-            "name": "records/wave6/undertale/dogsong",
+            "name": "records/wave6/undertale/021_dogsong",
             "stream": true
         }
     ]
