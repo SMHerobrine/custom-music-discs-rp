@@ -827,10 +827,10 @@
               }
           },
           {
-              "when": "undertale_heartbache",
+              "when": "undertale_heartache",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/heartbache"
+                  "model": "item/wave6/undertale/heartache"
               }
           },
           {
