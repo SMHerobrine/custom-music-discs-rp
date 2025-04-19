@@ -767,91 +767,91 @@
               "when": "undertail_once_upon_a_time",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/once_upon_a_time"
+                  "model": "item/wave6/undertale_once_upon_a_time"
               }
           },
           {
               "when": "undertale_fallen_down",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/fallen_down"
+                  "model": "item/wave6/undertale_fallen_down"
               }
           },
           {
               "when": "undertale_ruins",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/ruins"
+                  "model": "item/wave6/undertale_ruins"
               }
           },
           {
               "when": "undetale_uwa_so_temperate",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/uwa_so_temperate"
+                  "model": "item/wave6/undertale_uwa_so_temperate"
               }
           },
           {
               "when": "undertale_enemy_approaching",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/enemy_approaching"
+                  "model": "item/wave6/undertale_enemy_approaching"
               }
           },
           {
               "when": "undertale_ghost_fight",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/ghost_fight"
+                  "model": "item/wave6/undertale_ghost_fight"
               }
           },
           {
               "when": "undertale_determination",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/determination"
+                  "model": "item/wave6/undertale_determination"
               }
           },
           {
               "when": "undertale_home",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/home"
+                  "model": "item/wave6/undertale_home"
               }
           },
           {
               "when": "undertale_home_music_box",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/home_music_box"
+                  "model": "item/wave6/undertale_home_music_box"
               }
           },
           {
               "when": "undertale_heartache",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/heartache"
+                  "model": "item/wave6/undertale_heartache"
               }
           },
           {
               "when": "undertale_sans",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/sans"
+                  "model": "item/wave6/undertale_sans"
               }
           },
           {
               "when": "undertale_snowy",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/snowy"
+                  "model": "item/wave6/undertale_snowy"
               }
           },
         {
               "when": "undertale_dogsong",
               "model": {
                   "type": "model",
-                  "model": "item/wave6/undertale/dogsong"
+                  "model": "item/wave6/undertale_dogsong"
               }
           },
         {

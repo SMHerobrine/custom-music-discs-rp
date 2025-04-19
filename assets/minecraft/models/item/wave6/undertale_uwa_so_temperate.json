@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/wave6/undertale/uwa_so_temperate"
+        "layer0": "item/wave6/undertale_uwa_so_temperate"
     }
 }

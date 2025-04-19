@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/wave6/undertale/fallen_down"
+        "layer0": "item/wave6/undertale_fallen_down"
     }
 }
