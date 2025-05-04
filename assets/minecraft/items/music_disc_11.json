@@ -764,7 +764,7 @@
               }
           },
           {
-              "when": "undertail_once_upon_a_time",
+              "when": "undertale_once_upon_a_time",
               "model": {
                   "type": "model",
                   "model": "item/wave6/undertale_once_upon_a_time"
@@ -785,7 +785,7 @@
               }
           },
           {
-              "when": "undetale_uwa_so_temperate",
+              "when": "undertale_uwa_so_temperate",
               "model": {
                   "type": "model",
                   "model": "item/wave6/undertale_uwa_so_temperate"
