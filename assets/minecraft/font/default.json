@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:item/lapis_lazuli.png",
-            "ascent": 21,
+            "ascent": 16,
             "height": 32,
             "chars": ["\uE000"]
         },
@@ -1273,6 +1273,13 @@
             "ascent": 21,
             "height": 32,
             "chars": ["\uE181"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/wave1recipe/fallenkingdom.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE182"]
         }
     ]
 }
