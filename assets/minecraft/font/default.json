@@ -2,16 +2,16 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:item/lapis_lazuli.png",
+            "file": "minecraft:item/logo/cmd_logo.png",
             "ascent": 16,
             "height": 32,
             "chars": ["\uE000"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/redstone.png",
-            "ascent": 21,
-            "height": 32,
+            "file": "minecraft:item/wave1recipe/fallenkingdom.png",
+            "ascent": 1,
+            "height": 155,
             "chars": ["\uE001"]
         },
         {
