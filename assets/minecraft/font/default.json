@@ -9,308 +9,308 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1recipe/fallenkingdom.png",
+            "file": "minecraft:item/recipes/wave1_fallen_kingdom.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/music_disc_13.png",
+            "file": "minecraft:item/recipes/wave1_jsab_chronos.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave2/dan_intro.png",
+            "file": "minecraft:item/recipes/wave1_jsab_corrupted.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/gold_nugget.png",
+            "file": "minecraft:item/recipes/wave1_jsab_gatekeeper.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE004"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/fallen_kingdom.png",
+            "file": "minecraft:item/recipes/wave1_jsab_menu.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE005"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/jsab_chronos.png",
+            "file": "minecraft:item/recipes/wave1_jsab_milkyways.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE006"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/cobbled_deepslate.png",
+            "file": "minecraft:item/recipes/wave1_mangrove.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE007"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/gold_ingot.png",
+            "file": "minecraft:item/recipes/wave1_mcacapella.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE008"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/cracked_deepslate_tiles.png",
+            "file": "minecraft:item/recipes/wave1_mcacapella2.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE009"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/jsab_corrupted.png",
+            "file": "minecraft:item/recipes/wave1_only_noteblocks.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE010"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/blackstone.png",
+            "file": "minecraft:item/recipes/wave1_pleasehold.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE011"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/jsab_gatekeeper.png",
+            "file": "minecraft:item/recipes/wave1_pleasehold_unhinged.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE012"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/jsab_menu.png",
+            "file": "minecraft:item/recipes/wave1_revenge.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE013"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/purple_stained_glass.png",
-            "ascent": 21,
-            "height": 32,
-            "chars": ["\uE015"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:item/wave1/jsab_milkyways.png",
+            "file": "minecraft:item/recipes/wave1_soothing_cherry_grove.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE014"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/grass_block_side.png",
+            "file": "minecraft:item/recipes/wave1_tnt.png",
+            "ascent": 21,
+            "height": 32,
+            "chars": ["\uE015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave1_subwoolfer.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE016"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/dirt.png",
+            "file": "minecraft:item/recipes/wave2_dan_crafting.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE017"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/mcacapella.png",
+            "file": "minecraft:item/recipes/wave2_dan_cringe.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE018"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/mycelium_side.png",
+            "file": "minecraft:item/recipes/wave2_dan_intro.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE019"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/mcacapella2.png",
+            "file": "minecraft:item/recipes/wave2_dan_intro2.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE020"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/note_block.png",
+            "file": "minecraft:item/recipes/wave2_dan_nether.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE021"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/mcnoteblock.png",
+            "file": "minecraft:item/recipes/wave2_dan_song.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE022"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/paper.png",
+            "file": "minecraft:item/recipes/wave2_offpeppersteak.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE023"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/book.png",
+            "file": "minecraft:item/recipes/wave3_bitch_lasanga.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE024"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/pleasehold_unhinged.png",
+            "file": "minecraft:item/recipes/wave3_congratulations.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE025"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/pleasehold.png",
+            "file": "minecraft:item/recipes/wave3_dan_dab_lasanga.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE026"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/gunpowder.png",
+            "file": "minecraft:item/recipes/wave3_dan_gingerbread_dan.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE027"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/revenge.png",
+            "file": "minecraft:item/recipes/wave3_dan_happening.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE028"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/cherry_leaves.png",
+            "file": "minecraft:item/recipes/wave3_dan_im_dead.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE029"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/soothing_cherrygrove.png",
+            "file": "minecraft:item/recipes/wave3_dan_monster.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE030"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/mangrove_roots_side.png",
+            "file": "minecraft:item/recipes/wave3_dan_smashing_it.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE031"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/soothing_rainyswamp.png",
+            "file": "minecraft:item/recipes/wave3_in_the_final.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE032"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/sunflower_front.png",
+            "file": "minecraft:recipes/wave4_ally_rap.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE033"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/subwoolfer_acapella.png",
+            "file": "minecraft:item/recipes/wave4_bee_rap.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE034"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/sand.png",
+            "file": "minecraft:item/recipes/wave4_fox_rap.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE035"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave1/tnt.png",
+            "file": "minecraft:item/recipes/wave4_mc_anime.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE036"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/crafting_table_side.png",
+            "file": "minecraft:item/recipes/wave4_mc_lego_rap.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE037"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave2/dan_crafting.png",
+            "file": "minecraft:item/recipes/wave4_mice_on_venus_aca.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE038"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/coal.png",
+            "file": "minecraft:item/recipes/wave4_pigstep_upgrade.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE039"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave2/dan_cringe.png",
+            "file": "minecraft:item/recipes/wave4_revenge_acapella.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE040"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/diamond.png",
+            "file": "minecraft:item/recipes/wave4_rickroll.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE041"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave2/dan_intro2.png",
+            "file": "minecraft:item/recipes/wave4_skeleton_remix.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE042"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:block/netherrack.png",
+            "file": "minecraft:item/recipes/wave4_subwoolfer_orchestra.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE043"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/wave2/dan_nether.png",
+            "file": "minecraft:item/recipes/wave4_sweden_acapella.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE044"]
