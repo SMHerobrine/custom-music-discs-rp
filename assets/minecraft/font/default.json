@@ -233,7 +233,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:recipes/wave4_ally_rap.png",
+            "file": "minecraft:item/recipes/wave4_ally_rap.png",
             "ascent": 21,
             "height": 32,
             "chars": ["\uE033"]
