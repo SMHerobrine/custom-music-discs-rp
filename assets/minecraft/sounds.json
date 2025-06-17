@@ -1,995 +1,1003 @@
 {
-"music_disc.revenge": {
-    "sounds": [
-        {
-            "name": "records/wave1/revenge",
-            "stream": true
-        }
-    ]
-},
-"music_disc.fallen_kingdom": {
-    "sounds": [
-        {
-            "name": "records/wave1/fallen_kingdom",
-            "stream": true
-        }
-    ]
-},
-"music_disc.tnt": {
-    "sounds": [
-        {
-            "name": "records/wave1/tnt",
-            "stream": true
-        }
-    ]
-},
-"music_disc.jsab_menu": {
-    "sounds": [
-        {
-            "name": "records/wave1/jsab_menu",
-            "stream": true
-        }
-    ]
-},
-"music_disc.jsab_milkyways": {
-    "sounds": [
-        {
-            "name": "records/wave1/jsab_milkyways",
-            "stream": true
-        }
-    ]
-},
-"music_disc.jsab_chronos": {
-    "sounds": [
-        {
-            "name": "records/wave1/jsab_chronos",
-            "stream": true
-        }
-    ]
-},
-"music_disc.jsab_gatekeeper": {
-    "sounds": [
-        {
-            "name": "records/wave1/jsab_gatekeeper",
-            "stream": true
-        }
-    ]
-},
-"music_disc.jsab_corrupted": {
-    "sounds": [
-        {
-            "name": "records/wave1/jsab_corrupted",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcacapella": {
-    "sounds": [
-        {
-            "name": "records/wave1/mcacapella",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcnoteblock": {
-    "sounds": [
-        {
-            "name": "records/wave1/mcnoteblock",
-            "stream": true
-        }
-    ]
-},
-"music_disc.fortstress": {
-    "sounds": [
-        {
-            "name": "records/wave1/fortstress",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcacapella2": {
-    "sounds": [
-        {
-            "name": "records/wave1/mcacapella2",
-            "stream": true
-        }
-    ]
-},
-"music_disc.pleasehold": {
-    "sounds": [
-        {
-            "name": "records/wave1/pleasehold",
-            "stream": true
-        }
-    ]
-},
-"music_disc.pleasehold_unhinged": {
-    "sounds": [
-        {
-            "name": "records/wave1/pleasehold_unhinged",
-            "stream": true
-        }
-    ]
-},
-"music_disc.soothing_aquarium": {
-    "sounds": [
-        {
-            "name": "records/wave1/soothing_aquarium",
-            "stream": true
-        }
-    ]
-},
-"music_disc.soothing_beach": {
-    "sounds": [
-        {
-            "name": "records/wave1/soothing_beach",
-            "stream": true
-        }
-    ]
-},
-"music_disc.soothing_cherrygrove": {
-    "sounds": [
-        {
-            "name": "records/wave1/soothing_cherrygrove",
-            "stream": true
-        }
-    ]
-},
-"music_disc.soothing_dreamydesert": {
-    "sounds": [
-        {
-            "name": "records/wave1/soothing_dreamydesert",
-            "stream": true
-        }
-    ]
-},
-"music_disc.soothing_fireplace": {
-    "sounds": [
-        {
-            "name": "records/wave1/soothing_fireplace",
-            "stream": true
-        }
-    ]
-},
-"music_disc.soothing_glowingcaves": {
-    "sounds": [
-        {
-            "name": "records/wave1/soothing_glowingcaves",
-            "stream": true
-        }
-    ]
-},
-"music_disc.soothing_rainyswamp": {
-    "sounds": [
-        {
-            "name": "records/wave1/soothing_rainyswamp",
-            "stream": true
-        }
-    ]
-},
-"music_disc.soothing_fallingsnow": {
-    "sounds": [
-        {
-            "name": "records/wave1/soothing_fallingsnow",
-            "stream": true
-        }
-    ]
-},
-"music_disc.soothing_serenesnow": {
-    "sounds": [
-        {
-            "name": "records/wave1/soothing_serenesnow",
-            "stream": true
-        }
-    ]
-},
-"music_disc.subwoolfer_acapella": {
-    "sounds": [
-        {
-            "name": "records/wave1/subwoolfer_acapella",
-            "stream": true
-        }
-    ]
-},
-"music_disc.sweden_acapella": {
-    "sounds": [
-        {
-            "name": "records/wave1/sweden_acapella",
-            "stream": true
-        }
-    ]
-},
-"music_disc.wethands_acapella": {
-    "sounds": [
-        {
-            "name": "records/wave1/wethands_acapella",
-            "stream": true
-        }
-    ]
-},
-"music_disc.offpeppersteak": {
-    "sounds": [
-        {
-            "name": "records/wave2/offpeppersteak",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_nether": {
-    "sounds": [
-        {
-            "name": "records/wave2/dan_nether",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_crafting": {
-    "sounds": [
-        {
-            "name": "records/wave2/dan_crafting",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_cringe": {
-    "sounds": [
-        {
-            "name": "records/wave2/dan_cringe",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_song": {
-    "sounds": [
-        {
-            "name": "records/wave2/dan_song",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_intro": {
-    "sounds": [
-        {
-            "name": "records/wave2/dan_intro",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_intro2": {
-    "sounds": [
-        {
-            "name": "records/wave2/dan_intro2",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_gingerbread_dan": {
-    "sounds": [
-        {
-            "name": "records/wave3/dan_gingerbread_dan",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_monster": {
-    "sounds": [
-        {
-            "name": "records/wave3/dan_monster",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_im_dead": {
-    "sounds": [
-        {
-            "name": "records/wave3/dan_im_dead",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_happening": {
-    "sounds": [
-        {
-            "name": "records/wave3/dan_happening",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_smashing_it": {
-    "sounds": [
-        {
-            "name": "records/wave3/dan_smashing_it",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dan_dab_lasagna": {
-    "sounds": [
-        {
-            "name": "records/wave3/dan_dab_lasagna",
-            "stream": true
-        }
-    ]
-},
-"music_disc.bitch_lasagna": {
-    "sounds": [
-        {
-            "name": "records/wave3/bitch_lasagna",
-            "stream": true
-        }
-    ]
-},
-"music_disc.congratulations": {
-    "sounds": [
-        {
-            "name": "records/wave3/congratulations",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mario_in_the_final": {
-    "sounds": [
-        {
-            "name": "records/wave3/mario_in_the_final",
-            "stream": true
-        }
-    ]
-},
+    "music_disc.revenge": {
+        "sounds": [
+            {
+                "name": "records/wave1/revenge",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.fallen_kingdom": {
+        "sounds": [
+            {
+                "name": "records/wave1/fallen_kingdom",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.tnt": {
+        "sounds": [
+            {
+                "name": "records/wave1/tnt",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.jsab_menu": {
+        "sounds": [
+            {
+                "name": "records/wave1/jsab_menu",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.jsab_milkyways": {
+        "sounds": [
+            {
+                "name": "records/wave1/jsab_milkyways",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.jsab_chronos": {
+        "sounds": [
+            {
+                "name": "records/wave1/jsab_chronos",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.jsab_gatekeeper": {
+        "sounds": [
+            {
+                "name": "records/wave1/jsab_gatekeeper",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.jsab_corrupted": {
+        "sounds": [
+            {
+                "name": "records/wave1/jsab_corrupted",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcacapella": {
+        "sounds": [
+            {
+                "name": "records/wave1/mcacapella",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcnoteblock": {
+        "sounds": [
+            {
+                "name": "records/wave1/mcnoteblock",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.fortstress": {
+        "sounds": [
+            {
+                "name": "records/wave1/fortstress",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcacapella2": {
+        "sounds": [
+            {
+                "name": "records/wave1/mcacapella2",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pleasehold": {
+        "sounds": [
+            {
+                "name": "records/wave1/pleasehold",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pleasehold_unhinged": {
+        "sounds": [
+            {
+                "name": "records/wave1/pleasehold_unhinged",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.soothing_aquarium": {
+        "sounds": [
+            {
+                "name": "records/wave1/soothing_aquarium",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.soothing_beach": {
+        "sounds": [
+            {
+                "name": "records/wave1/soothing_beach",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.soothing_cherrygrove": {
+        "sounds": [
+            {
+                "name": "records/wave1/soothing_cherrygrove",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.soothing_dreamydesert": {
+        "sounds": [
+            {
+                "name": "records/wave1/soothing_dreamydesert",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.soothing_fireplace": {
+        "sounds": [
+            {
+                "name": "records/wave1/soothing_fireplace",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.soothing_glowingcaves": {
+        "sounds": [
+            {
+                "name": "records/wave1/soothing_glowingcaves",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.soothing_rainyswamp": {
+        "sounds": [
+            {
+                "name": "records/wave1/soothing_rainyswamp",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.soothing_fallingsnow": {
+        "sounds": [
+            {
+                "name": "records/wave1/soothing_fallingsnow",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.soothing_serenesnow": {
+        "sounds": [
+            {
+                "name": "records/wave1/soothing_serenesnow",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.subwoolfer_acapella": {
+        "sounds": [
+            {
+                "name": "records/wave1/subwoolfer_acapella",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.sweden_acapella": {
+        "sounds": [
+            {
+                "name": "records/wave1/sweden_acapella",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.wethands_acapella": {
+        "sounds": [
+            {
+                "name": "records/wave1/wethands_acapella",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.offpeppersteak": {
+        "sounds": [
+            {
+                "name": "records/wave2/offpeppersteak",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_nether": {
+        "sounds": [
+            {
+                "name": "records/wave2/dan_nether",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_crafting": {
+        "sounds": [
+            {
+                "name": "records/wave2/dan_crafting",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_cringe": {
+        "sounds": [
+            {
+                "name": "records/wave2/dan_cringe",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_song": {
+        "sounds": [
+            {
+                "name": "records/wave2/dan_song",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_intro": {
+        "sounds": [
+            {
+                "name": "records/wave2/dan_intro",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_intro2": {
+        "sounds": [
+            {
+                "name": "records/wave2/dan_intro2",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_gingerbread_dan": {
+        "sounds": [
+            {
+                "name": "records/wave3/dan_gingerbread_dan",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_monster": {
+        "sounds": [
+            {
+                "name": "records/wave3/dan_monster",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_im_dead": {
+        "sounds": [
+            {
+                "name": "records/wave3/dan_im_dead",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_happening": {
+        "sounds": [
+            {
+                "name": "records/wave3/dan_happening",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_smashing_it": {
+        "sounds": [
+            {
+                "name": "records/wave3/dan_smashing_it",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dan_dab_lasagna": {
+        "sounds": [
+            {
+                "name": "records/wave3/dan_dab_lasagna",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.bitch_lasagna": {
+        "sounds": [
+            {
+                "name": "records/wave3/bitch_lasagna",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.congratulations": {
+        "sounds": [
+            {
+                "name": "records/wave3/congratulations",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mario_in_the_final": {
+        "sounds": [
+            {
+                "name": "records/wave3/mario_in_the_final",
+                "stream": true
+            }
+        ]
+    },
 
 
 
-"music_disc.never_gonna_give_you_up": {
-    "sounds": [
-        {
-            "name": "records/wave4/never_gonna_give_you_up",
-            "stream": true
-        }
-    ]
-},
-"music_disc.revenge_acapella": {
-    "sounds": [
-        {
-            "name": "records/wave4/revenge_acapella",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mice_on_venus_acapella": {
-    "sounds": [
-        {
-            "name": "records/wave4/mice_on_venus_acapella",
-            "stream": true
-        }
-    ]
-},
-"music_disc.wave4.sweden_acapella": {
-    "sounds": [
-        {
-            "name": "records/wave4/wave4_sweden_acapella",
-            "stream": true
-        }
-    ]
-},
-"music_disc.subwoofer_lullaby_orchestra": {
-    "sounds": [
-        {
-            "name": "records/wave4/subwoofer_lullaby_orchestra",
-            "stream": true
-        }
-    ]
-},
-"music_disc.sweden_hans_zimmer": {
-    "sounds": [
-        {
-            "name": "records/wave4/sweden_hans_zimmer",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mice_on_venus_sad_film_score": {
-    "sounds": [
-        {
-            "name": "records/wave4/mice_on_venus_sad_film_score",
-            "stream": true
-        }
-    ]
-},
-"music_disc.aria_math_epic_soundtrack": {
-    "sounds": [
-        {
-            "name": "records/wave4/aria_math_epic_soundtrack",
-            "stream": true
-        }
-    ]
-},
-"music_disc.wet_hands_uplifting_adventurous_soundtrack": {
-    "sounds": [
-        {
-            "name": "records/wave4/wet_hands_uplifting_adventurous_soundtrack",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcsoundtrack_anime_opening_song": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcsoundtrack_anime_opening_song",
-            "stream": true
-        }
-    ]
-},
-"music_disc.living_mice_synthwave": {
-    "sounds": [
-        {
-            "name": "records/wave4/living_mice_synthwave",
-            "stream": true
-        }
-    ]
-},
+    "music_disc.never_gonna_give_you_up": {
+        "sounds": [
+            {
+                "name": "records/wave4/never_gonna_give_you_up",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.revenge_acapella": {
+        "sounds": [
+            {
+                "name": "records/wave4/revenge_acapella",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mice_on_venus_acapella": {
+        "sounds": [
+            {
+                "name": "records/wave4/mice_on_venus_acapella",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.wave4.sweden_acapella": {
+        "sounds": [
+            {
+                "name": "records/wave4/wave4_sweden_acapella",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.subwoofer_lullaby_orchestra": {
+        "sounds": [
+            {
+                "name": "records/wave4/subwoofer_lullaby_orchestra",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.sweden_hans_zimmer": {
+        "sounds": [
+            {
+                "name": "records/wave4/sweden_hans_zimmer",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mice_on_venus_sad_film_score": {
+        "sounds": [
+            {
+                "name": "records/wave4/mice_on_venus_sad_film_score",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.aria_math_epic_soundtrack": {
+        "sounds": [
+            {
+                "name": "records/wave4/aria_math_epic_soundtrack",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.wet_hands_uplifting_adventurous_soundtrack": {
+        "sounds": [
+            {
+                "name": "records/wave4/wet_hands_uplifting_adventurous_soundtrack",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcsoundtrack_anime_opening_song": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcsoundtrack_anime_opening_song",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.living_mice_synthwave": {
+        "sounds": [
+            {
+                "name": "records/wave4/living_mice_synthwave",
+                "stream": true
+            }
+        ]
+    },
 
-"music_disc.sweden_lofi_hiphop_remix": {
-    "sounds": [
-        {
-            "name": "records/wave4/sweden_lofi_hiphop_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.haggstrom_john_williams": {
-    "sounds": [
-        {
-            "name": "records/wave4/haggstrom_john_williams",
-            "stream": true
-        }
-    ]
-},
-"music_disc.moog_city_orchestral_synthwave_remix": {
-    "sounds": [
-        {
-            "name": "records/wave4/moog_city_orchestral_synthwave_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.danny_disney_movie_soundtrack": {
-    "sounds": [
-        {
-            "name": "records/wave4/danny_disney_movie_soundtrack",
-            "stream": true
-        }
-    ]
-},
-"music_disc.dry_hands_funky_synthwave": {
-    "sounds": [
-        {
-            "name": "records/wave4/dry_hands_funky_synthwave",
-            "stream": true
-        }
-    ]
-},
-"music_disc.sweden_hans_zimmer_slowed_reverb": {
-    "sounds": [
-        {
-            "name": "records/wave4/sweden_hans_zimmer_slowed_reverb",
-            "stream": true
-        }
-    ]
-},
-"music_disc.aria_math_synthwave": {
-    "sounds": [
-        {
-            "name": "records/wave4/aria_math_synthwave",
-            "stream": true
-        }
-    ]
-},
-"music_disc.pigstep_epic_orchestral_remix": {
-    "sounds": [
-        {
-            "name": "records/wave4/pigstep_epic_orchestral_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.c418_legacy": {
-    "sounds": [
-        {
-            "name": "records/wave4/c418_legacy",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.boom_boom_boom": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_boom_boom_boom",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.quiet_please": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_quiet_please",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.bull_is_the_spider": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_bull_is_the_spider",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.pigman": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_pigman",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.the_ballad_of_bob_the_snow_golem": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_the_ballad_of_bob_the_snow_golem",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.creeper_remix": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_creeper_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.dont_mess_with_the_endermen": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_dont_mess_with_the_endermen",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.ive_got_a_bone": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_ive_got_a_bone",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.im_a_zombie": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_im_a_zombie",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.the_arch_illager": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_the_arch_illager",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.the_last_guardian": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_the_last_guardian",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.busy_buzzy_bees": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_busy_buzzy_bees",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.skeleton_remix": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_skeleton_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.rap_battle": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_rap_battle",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mcrap.just_another_day": {
-    "sounds": [
-        {
-            "name": "records/wave4/mcrap_just_another_day",
-            "stream": true
-        }
-    ]
-},
-
-
-"music_disc.cg5_sweden": {
-    "sounds": [
-        {
-            "name": "records/wave5/cg5_sweden",
-            "stream": true
-        }
-    ]
-},
-"music_disc.hardcore_disc": {
-    "sounds": [
-        {
-            "name": "records/wave5/hardcore_disc",
-            "stream": true
-        }
-    ]
-},
-"music_disc.sweet_dreams": {
-    "sounds": [
-        {
-            "name": "records/wave5/sweet_dreams",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.relic_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/mining/relic_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.crescent_dunes_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/mining/crescent_dunes_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.bromeliad_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/mining/bromeliad_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.a_familiar_room_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/mining/a_familiar_room_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.echo_in_the_wind_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/mining/echo_in_the_wind_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.broken_heart_of_ender_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/broken_heart_of_ender_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.coral_rise_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/coral_rise_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.crimson_forest_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/crimson_forest_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.dalarna_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/dalarna_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.dalarna2_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/dalarna2_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.desert_temple_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/desert_temple_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.evoker_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/evoker_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.ghast_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/ghast_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.halland_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/halland_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.mooshroom_island_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/mooshroom_island_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.the_arch_illager_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/dungeons/the_arch_illager_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.a_day_long_awaited_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/legends/a_day_long_awaited_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.a_time_of_legends_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/legends/a_time_of_legends_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.alone_with_the_sky_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/legends/alone_with_the_sky_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.blue_ice_white_snow_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/legends/blue_ice_white_snow_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.lute_skit_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/legends/lute_skit",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.new_worlds_new_adventures_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/legends/new_worlds_new_adventures_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.the_coming_war_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/legends/the_coming_war_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.the_green_expanse_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/legends/the_green_expanse_remix",
-            "stream": true
-        }
-    ]
-},
-"music_disc.mclofi.the_well_of_fate_remix": {
-    "sounds": [
-        {
-            "name": "records/wave5/legends/the_well_of_fate_remix",
-            "stream": true
-        }
-    ]
-},
+    "music_disc.sweden_lofi_hiphop_remix": {
+        "sounds": [
+            {
+                "name": "records/wave4/sweden_lofi_hiphop_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.haggstrom_john_williams": {
+        "sounds": [
+            {
+                "name": "records/wave4/haggstrom_john_williams",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.moog_city_orchestral_synthwave_remix": {
+        "sounds": [
+            {
+                "name": "records/wave4/moog_city_orchestral_synthwave_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.danny_disney_movie_soundtrack": {
+        "sounds": [
+            {
+                "name": "records/wave4/danny_disney_movie_soundtrack",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dry_hands_funky_synthwave": {
+        "sounds": [
+            {
+                "name": "records/wave4/dry_hands_funky_synthwave",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.sweden_hans_zimmer_slowed_reverb": {
+        "sounds": [
+            {
+                "name": "records/wave4/sweden_hans_zimmer_slowed_reverb",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.aria_math_synthwave": {
+        "sounds": [
+            {
+                "name": "records/wave4/aria_math_synthwave",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pigstep_epic_orchestral_remix": {
+        "sounds": [
+            {
+                "name": "records/wave4/pigstep_epic_orchestral_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.c418_legacy": {
+        "sounds": [
+            {
+                "name": "records/wave4/c418_legacy",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.boom_boom_boom": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_boom_boom_boom",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.quiet_please": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_quiet_please",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.bull_is_the_spider": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_bull_is_the_spider",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.pigman": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_pigman",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.the_ballad_of_bob_the_snow_golem": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_the_ballad_of_bob_the_snow_golem",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.creeper_remix": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_creeper_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.dont_mess_with_the_endermen": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_dont_mess_with_the_endermen",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.ive_got_a_bone": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_ive_got_a_bone",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.im_a_zombie": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_im_a_zombie",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.the_arch_illager": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_the_arch_illager",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.the_last_guardian": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_the_last_guardian",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.busy_buzzy_bees": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_busy_buzzy_bees",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.skeleton_remix": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_skeleton_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.rap_battle": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_rap_battle",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mcrap.just_another_day": {
+        "sounds": [
+            {
+                "name": "records/wave4/mcrap_just_another_day",
+                "stream": true
+            }
+        ]
+    },
 
 
-"music_disc.minecraft_shape_your_world": {
-    "sounds": [
-        {
-            "name": "records/wave6/minecraft_shape_your_world",
-            "stream": true
-        }
-    ]
-},
-"music_disc.thefatrat_fly_away": {
-    "sounds": [
-        {
-            "name": "records/wave6/thefatrat_fly_away",
-            "stream": true
-        }
-    ]
-},
-"music_disc.thefatrat_sail_away": {
-    "sounds": [
-        {
-            "name": "records/wave6/thefatrat_sail_away",
-            "stream": true
-        }
-    ]
-},
+    "music_disc.cg5_sweden": {
+        "sounds": [
+            {
+                "name": "records/wave5/cg5_sweden",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.hardcore_disc": {
+        "sounds": [
+            {
+                "name": "records/wave5/hardcore_disc",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.sweet_dreams": {
+        "sounds": [
+            {
+                "name": "records/wave5/sweet_dreams",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.relic_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/mining/relic_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.crescent_dunes_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/mining/crescent_dunes_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.bromeliad_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/mining/bromeliad_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.a_familiar_room_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/mining/a_familiar_room_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.echo_in_the_wind_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/mining/echo_in_the_wind_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.broken_heart_of_ender_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/broken_heart_of_ender_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.coral_rise_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/coral_rise_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.crimson_forest_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/crimson_forest_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.dalarna_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/dalarna_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.dalarna2_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/dalarna2_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.desert_temple_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/desert_temple_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.evoker_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/evoker_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.ghast_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/ghast_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.halland_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/halland_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.mooshroom_island_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/mooshroom_island_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.the_arch_illager_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/dungeons/the_arch_illager_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.a_day_long_awaited_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/legends/a_day_long_awaited_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.a_time_of_legends_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/legends/a_time_of_legends_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.alone_with_the_sky_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/legends/alone_with_the_sky_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.blue_ice_white_snow_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/legends/blue_ice_white_snow_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.lute_skit_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/legends/lute_skit",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.new_worlds_new_adventures_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/legends/new_worlds_new_adventures_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.the_coming_war_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/legends/the_coming_war_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.the_green_expanse_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/legends/the_green_expanse_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.mclofi.the_well_of_fate_remix": {
+        "sounds": [
+            {
+                "name": "records/wave5/legends/the_well_of_fate_remix",
+                "stream": true
+            }
+        ]
+    },
 
-"music_disc.undertale.once_upon_a_time": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/001_once_upon_a_time",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.fallen_down": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/004_fallen_down",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.ruins": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/005_ruins",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.uwa_so_temperate": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/006_uwa_so_temperate",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.enemy_approaching": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/009_enemy_approaching",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.ghost_fight": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/010_ghost_fight",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.determination": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/011_determination",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.home": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/012_home",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.home_music_box": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/013_home_music_box",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.heartache": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/014_heartache",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.sans": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/015_sans",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.snowy": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/017_snowy",
-            "stream": true
-        }
-    ]
-},
-"music_disc.undertale.dogsong": {
-    "sounds": [
-        {
-            "name": "records/wave6/undertale/021_dogsong",
-            "stream": true
-        }
-    ]
-},
-"music_disc.soothing_farm": {
-    "sounds": [
-        {
-            "name": "records/wave6/soothing_farm",
-            "stream": true
-        }
-    ]
-},
-"music_disc.happy_birthday": {
-    "sounds": [
-        {
-            "name": "records/wave6/happy_birthday",
-            "stream": true
-        }
-    ]
-}
+
+    "music_disc.minecraft_shape_your_world": {
+        "sounds": [
+            {
+                "name": "records/wave6/minecraft_shape_your_world",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.thefatrat_fly_away": {
+        "sounds": [
+            {
+                "name": "records/wave6/thefatrat_fly_away",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.thefatrat_sail_away": {
+        "sounds": [
+            {
+                "name": "records/wave6/thefatrat_sail_away",
+                "stream": true
+            }
+        ]
+    },
+
+    "music_disc.undertale.once_upon_a_time": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/001_once_upon_a_time",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.fallen_down": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/004_fallen_down",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.ruins": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/005_ruins",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.uwa_so_temperate": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/006_uwa_so_temperate",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.enemy_approaching": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/009_enemy_approaching",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.ghost_fight": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/010_ghost_fight",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.determination": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/011_determination",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.home": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/012_home",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.home_music_box": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/013_home_music_box",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.heartache": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/014_heartache",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.sans": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/015_sans",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.snowy": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/017_snowy",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.undertale.dogsong": {
+        "sounds": [
+            {
+                "name": "records/wave6/undertale/021_dogsong",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.soothing_farm": {
+        "sounds": [
+            {
+                "name": "records/wave6/soothing_farm",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.happy_birthday": {
+        "sounds": [
+            {
+                "name": "records/wave6/happy_birthday",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.thefatrat_mayday": {
+        "sounds": [
+            {
+                "name": "records/wave7/thefatrat_mayday",
+                "stream": true
+            }
+        ]
+    }
 }
