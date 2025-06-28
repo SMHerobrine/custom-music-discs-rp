@@ -622,6 +622,13 @@
             "ascent": 1,
             "height": 155,
             "chars": ["\uE088"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave6_undertale_snowy.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE089"]
         }
     ]
 }
