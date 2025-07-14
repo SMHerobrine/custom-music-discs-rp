@@ -335,9 +335,6 @@
             }
         ]
     },
-
-
-
     "music_disc.never_gonna_give_you_up": {
         "sounds": [
             {
@@ -619,8 +616,6 @@
             }
         ]
     },
-
-
     "music_disc.cg5_sweden": {
         "sounds": [
             {
@@ -996,6 +991,110 @@
         "sounds": [
             {
                 "name": "records/wave7/thefatrat_mayday",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.forrest_frank_your_ways_better": {
+        "sounds": [
+            {
+                "name": "records/wave7/forrest_frank_your_ways_better",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.creator_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/creator_pixel_remixy",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deeper_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/deeper_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.eld_unknown_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/eld_unknown_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.endless_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/endless_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.featherfall_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/featherfall_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.infinite_amethyst_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/infinite_amethyst_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.komorebi_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/komorebi_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pokopoko_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/pokopoko_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.precipice_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/precipice_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.puzzlebox_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/puzzlebox_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.watcher_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/watcher_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.yakusoku_pixel_mix": {
+        "sounds": [
+            {
+                "name": "records/wave7/yakusoku_pixel_mix",
                 "stream": true
             }
         ]

@@ -146,5 +146,19 @@
 
   
 
-  "jukebox_song.cmd.thefatrat_mayday": "TheFatRat - Mayday (feat. Laura Brehm)"
+  "jukebox_song.cmd.thefatrat_mayday": "TheFatRat - Mayday (feat. Laura Brehm)",
+  "jukebox_song.cmd.forrest_frank_your_ways_better": "Forrest Frank - YOUR WAY'S BETTER",
+
+  "jukebox_song.pixel_remix.creator": "leon chang - Creator - Pixel Remix (Original: Lena Raine)",
+  "jukebox_song.pixel_remix.deeper": "Elliot Hsu - Deeper - Pixel Remix (Original: Lena Raine)",
+  "jukebox_song.pixel_remix.eld_unknown": "Elliot Hsu - Eld Unknown - Pixel Remix (Original: Lena Raine)",
+  "jukebox_song.pixel_remix.endless": "Anamanaguchi - Endless- Pixel Remix (Original: Lena Raine)",
+  "jukebox_song.pixel_remix.featherfall": "Hyper Potions - Featherfall - Pixel Remix (Original: Aaron Cherof)",
+  "jukebox_song.pixel_remix.infinite_amethyst": "Snail's House - Infinite Amethyst - Pixel Remix (Original: Lena Raine)",
+  "jukebox_song.pixel_remix.komorebi": "AIKA - komorebi - Pixel Remix (Original: Kumi Tanioka)",
+  "jukebox_song.pixel_remix.pokopoko": "Synthion - pokopoko - Pixel Remix (Original: Kumi Tanioka)",
+  "jukebox_song.pixel_remix.precipice": "Hyper Potions - Precipice - Pixel Remix (Original: Aaron Cherof)",
+  "jukebox_song.pixel_remix.puzzlebox": "AIKA - Puzzlebox - Pixel Remix (Original: Aaron Cherof)",
+  "jukebox_song.pixel_remix.watcher": "Synthion - Watcher - Pixel Remix (Original: Aaron Cherof)",
+  "jukebox_song.pixel_remix.yakusoku": "leon chang - yakusoku - Pixel Remix (Original: Kumi Tanioka)"
 }

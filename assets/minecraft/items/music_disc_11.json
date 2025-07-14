@@ -874,6 +874,97 @@
                     "type": "model",
                     "model": "item/wave7/thefatrat_mayday"
                 }
+            },
+            {
+                "when": "forrest_frank_your_ways_better",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/forrest_frank_your_ways_better"
+                }
+            },
+            {
+                "when": "creator_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/creator_pixel_remix"
+                }
+            },
+            {
+                "when": "deeper_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/deeper_pixel_remix"
+                }
+            },
+            {
+                "when": "eld_unknown_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/eld_unknown_pixel_remix"
+                }
+            },
+            {
+                "when": "endless_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/endless_pixel_remix"
+                }
+            },
+            {
+                "when": "featherfall_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/featherfall_pixel_remix"
+                }
+            },
+            {
+                "when": "infinite_amethyst_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/infinite_amethyst_pixel_remix"
+                }
+            },
+            {
+                "when": "komorebi_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/komorebi_pixel_remix"
+                }
+            },
+            {
+                "when": "pokopoko_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/pokopoko_pixel_remix"
+                }
+            },
+            {
+                "when": "precipice_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/precipice_pixel_remix"
+                }
+            },
+            {
+                "when": "puzzlebox_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/puzzlebox_pixel_remix"
+                }
+            },
+            {
+                "when": "watcher_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/watcher_pixel_remix"
+                }
+            },
+            {
+                "when": "yakusoku_pixel_mix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/yakusoku_pixel_mix"
+                }
             }
         ]
     }
