@@ -1006,7 +1006,7 @@
     "music_disc.creator_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/creator_pixel_remixy",
+                "name": "records/wave7/creator_pixel_remix",
                 "stream": true
             }
         ]
@@ -1091,10 +1091,10 @@
             }
         ]
     },
-    "music_disc.yakusoku_pixel_mix": {
+    "music_disc.yakusoku_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/yakusoku_pixel_mix",
+                "name": "records/wave7/yakusoku_pixel_remix",
                 "stream": true
             }
         ]

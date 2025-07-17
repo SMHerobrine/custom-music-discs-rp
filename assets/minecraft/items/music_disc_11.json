@@ -960,10 +960,10 @@
                 }
             },
             {
-                "when": "yakusoku_pixel_mix",
+                "when": "yakusoku_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/yakusoku_pixel_mix"
+                    "model": "item/wave7/yakusoku_pixel_remix"
                 }
             }
         ]
