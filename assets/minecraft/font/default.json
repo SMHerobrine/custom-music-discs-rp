@@ -629,6 +629,27 @@
             "ascent": 1,
             "height": 155,
             "chars": ["\uE089"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_forrest_frank_your_ways_better.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE090"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_infinite_amethyst_pixel_remix.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE091"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_komorebi_pixel_remix.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE092"]
         }
     ]
 }

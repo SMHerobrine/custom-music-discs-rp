@@ -995,6 +995,14 @@
             }
         ]
     },
+    "music_disc.makrani_dhun": {
+        "sounds": [
+            {
+                "name": "records/wave7/makrani_dhun",
+                "stream": true
+            }
+        ]
+    },
     "music_disc.forrest_frank_your_ways_better": {
         "sounds": [
             {

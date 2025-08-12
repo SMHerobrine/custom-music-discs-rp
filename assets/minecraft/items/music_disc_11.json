@@ -876,6 +876,13 @@
                 }
             },
             {
+                "when": "makrani_dhun",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/makrani_dhun"
+                }
+            },
+            {
                 "when": "forrest_frank_your_ways_better",
                 "model": {
                     "type": "model",
