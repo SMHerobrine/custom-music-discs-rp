@@ -1011,6 +1011,14 @@
             }
         ]
     },
+    "music_disc.villager_lullaby": {
+        "sounds": [
+            {
+                "name": "records/wave7/villager_lullaby",
+                "stream": true
+            }
+        ]
+    },
     "music_disc.creator_pixel_remix": {
         "sounds": [
             {

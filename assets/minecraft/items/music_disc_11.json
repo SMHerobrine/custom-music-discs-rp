@@ -890,6 +890,13 @@
                 }
             },
             {
+                "when": "villager_lullaby",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/villager_lullaby"
+                }
+            },
+            {
                 "when": "creator_pixel_remix",
                 "model": {
                     "type": "model",
