@@ -650,6 +650,41 @@
             "ascent": 1,
             "height": 155,
             "chars": ["\uE092"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/lite6_happy_birthday.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE093"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/lite7_creator_pixel_remix.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE094"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/lite7_precipice_pixel_remix.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE095"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/lite7_puzzlebox_pixel_remix.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE096"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/lite7_thefatrat_mayday.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE097"]
         }
     ]
 }
