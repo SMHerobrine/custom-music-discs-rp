@@ -3,6 +3,7 @@
         "sounds": [
             {
                 "name": "records/wave1/revenge",
+                "attenuation_distance": 48,
                 "stream": true
             }
         ]
@@ -1112,6 +1113,70 @@
             {
                 "name": "records/wave7/yakusoku_pixel_remix",
                 "stream": true
+            }
+        ]
+    },
+    "music.menu": {
+        "sounds": [
+            {
+                "name": "records/wave7/komorebi_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/pokopoko_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/puzzlebox_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/watcher_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/yakusoku_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/infinite_amethyst_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/featherfall_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/endless_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/eld_unknown_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/deeper_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/creator_pixel_remix",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave7/precipice_pixel_remix",
+                "stream": true,
+                "volume": 0.4
             }
         ]
     }
