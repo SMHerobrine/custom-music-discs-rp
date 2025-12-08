@@ -1,4 +1,4 @@
-# Custom Music Discs (CMD) Resource Pack - v7.1
+# Custom Music Discs (CMD) Resource Pack - v7.2
 
 Official Website: [https://smherobrine.wixsite.com/custom-music-discs](https://smherobrine.wixsite.com/custom-music-discs)
 
