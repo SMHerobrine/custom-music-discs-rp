@@ -979,6 +979,69 @@
                     "type": "model",
                     "model": "item/wave7/yakusoku_pixel_remix"
                 }
+            },
+            {
+                "when": "copper_golem",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/copper_golem"
+                }
+            },
+            {
+                "when": "infinite_spooky_amethyst",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/infinite_spooky_amethyst"
+                }
+            },
+            {
+                "when": "crafters_candy_canes",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/crafters_candy_canes"
+                }
+            },
+            {
+                "when": "giftwrapped",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/giftwrapped"
+                }
+            },
+            {
+                "when": "happy_ghast",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/happy_ghast"
+                }
+            },
+            {
+                "when": "nautilus",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/nautilus"
+                }
+            },
+            {
+                "when": "spears",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/spears"
+                }
+            },
+            {
+                "when": "the_copper_age",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/the_copper_age"
+                }
+            },
+            {
+                "when": "wondrous_workshop",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/wondrous_workshop"
+                }
             }
         ]
     }
