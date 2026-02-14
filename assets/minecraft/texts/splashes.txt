@@ -150,7 +150,7 @@ CMD v3 - The Big One (Update)
 CMD v2.2 - the 2nd Dan Update
 CMD v2.1 - Reworked!
 CMD v2 - Rework! (Beta)
-CMD v1 - Leagcy
+CMD v1 - Legacy
 #wavey
 Wave 1
 Wave 2
