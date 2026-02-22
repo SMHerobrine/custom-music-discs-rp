@@ -685,6 +685,55 @@
             "ascent": 1,
             "height": 155,
             "chars": ["\uE097"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_copper_golem.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE098"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_giftwrapped.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE099"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_happy_ghast.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_infinite_spooky_amethyst.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_nautilus.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_spears.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_the_copper_age.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE104"]
         }
     ]
 }
