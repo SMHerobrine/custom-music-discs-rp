@@ -1,8 +1,8 @@
 {
     "pack": {
-        "pack_format": 64,
+        "pack_format": 88,
     	"supported_formats": [16, 2147483647],
-    	"min_format": 16,
+    	"min_format": 88,
     	"max_format": 2147483647,
         "description": "Enhancing Your Minecraft Soundtrack, One Disc at a Time"
     }

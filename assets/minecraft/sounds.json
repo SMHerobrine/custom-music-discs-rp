@@ -1187,6 +1187,14 @@
             }
         ]
     },
+    "music_disc.you_can_find_it": {
+        "sounds": [
+            {
+                "name": "records/wave9/you_can_find_it",
+                "stream": true
+            }
+        ]
+    },
     "music.menu": {
         "sounds": [
             {

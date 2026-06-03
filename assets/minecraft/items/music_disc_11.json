@@ -1037,10 +1037,38 @@
                 }
             },
             {
-                "when": "wondrous_workshop",
+                "when": "dont_mine_at_night",
                 "model": {
                     "type": "model",
-                    "model": "item/wave8/wondrous_workshop"
+                    "model": "item/wave9/dont_mine_at_night"
+                }
+            },
+            {
+                "when": "dragonhearted",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/dragonhearted"
+                }
+            },
+            {
+                "when": "find_the_pieces",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/find_the_pieces"
+                }
+            },
+            {
+                "when": "rising_kingdom",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/rising_kingdom"
+                }
+            },
+            {
+                "when": "take_back_the_night",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/take_back_the_night"
                 }
             }
         ]
