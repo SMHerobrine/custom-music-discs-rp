@@ -1243,7 +1243,7 @@
                 "volume": 0.4
             },
             {
-                "name": "record.bounce",
+                "name": "record/bounce",
                 "stream": true,
                 "volume": 0.4
             },
