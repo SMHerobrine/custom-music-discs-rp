@@ -1187,6 +1187,46 @@
             }
         ]
     },
+    "music_disc.dont_mine_at_night": {
+        "sounds": [
+            {
+                "name": "records/wave9/dont_mine_at_night",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dragonhearted": {
+        "sounds": [
+            {
+                "name": "records/wave9/dragonhearted",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.find_the_pieces": {
+        "sounds": [
+            {
+                "name": "records/wave9/find_the_pieces",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.rising_kingdom": {
+        "sounds": [
+            {
+                "name": "records/wave9/rising_kingdom",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.take_back_the_night": {
+        "sounds": [
+            {
+                "name": "records/wave9/take_back_the_night",
+                "stream": true
+            }
+        ]
+    },
     "music_disc.you_can_find_it": {
         "sounds": [
             {
@@ -1203,12 +1243,12 @@
                 "volume": 0.4
             },
             {
-                "name": "records/wave8/crafters_candy_canes",
+                "name": "record.bounce",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave8/giftwrapped",
+                "name": "records/wave9/you_can_find_it",
                 "stream": true,
                 "volume": 0.4
             },
@@ -1238,7 +1278,42 @@
                 "volume": 0.4
             },
             {
-                "name": "records/wave8/wondrous_workshop",
+                "name": "records/wave9/dont_mine_at_night",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave9/dragonhearted",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave9/find_the_pieces",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave9/rising_kingdom",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave9/take_back_the_night",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave1/tnt",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave1/revenge",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave1/fallen_kingdom",
                 "stream": true,
                 "volume": 0.4
             }
