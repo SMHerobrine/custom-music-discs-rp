@@ -734,6 +734,48 @@
             "ascent": 1,
             "height": 155,
             "chars": ["\uE104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_dont_mine_at_night.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_dragonhearted.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_find_the_pieces.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_rising_kingdom.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE108"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_take_back_the_night.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE109"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_you_can_find_it.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE110"]
         }
     ]
 }

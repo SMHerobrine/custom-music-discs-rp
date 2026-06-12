@@ -1037,6 +1037,13 @@
                 }
             },
             {
+                "when": "wondrous_workshop",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/wondrous_workshop"
+                }
+            },
+            {
                 "when": "dont_mine_at_night",
                 "model": {
                     "type": "model",
