@@ -874,6 +874,209 @@
                     "type": "model",
                     "model": "item/wave7/thefatrat_mayday"
                 }
+            },
+            {
+                "when": "makrani_dhun",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/makrani_dhun"
+                }
+            },
+            {
+                "when": "forrest_frank_your_ways_better",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/forrest_frank_your_ways_better"
+                }
+            },
+            {
+                "when": "villager_lullaby",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/villager_lullaby"
+                }
+            },
+            {
+                "when": "creator_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/creator_pixel_remix"
+                }
+            },
+            {
+                "when": "deeper_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/deeper_pixel_remix"
+                }
+            },
+            {
+                "when": "eld_unknown_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/eld_unknown_pixel_remix"
+                }
+            },
+            {
+                "when": "endless_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/endless_pixel_remix"
+                }
+            },
+            {
+                "when": "featherfall_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/featherfall_pixel_remix"
+                }
+            },
+            {
+                "when": "infinite_amethyst_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/infinite_amethyst_pixel_remix"
+                }
+            },
+            {
+                "when": "komorebi_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/komorebi_pixel_remix"
+                }
+            },
+            {
+                "when": "pokopoko_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/pokopoko_pixel_remix"
+                }
+            },
+            {
+                "when": "precipice_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/precipice_pixel_remix"
+                }
+            },
+            {
+                "when": "puzzlebox_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/puzzlebox_pixel_remix"
+                }
+            },
+            {
+                "when": "watcher_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/watcher_pixel_remix"
+                }
+            },
+            {
+                "when": "yakusoku_pixel_remix",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave7/yakusoku_pixel_remix"
+                }
+            },
+            {
+                "when": "copper_golem",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/copper_golem"
+                }
+            },
+            {
+                "when": "infinite_spooky_amethyst",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/infinite_spooky_amethyst"
+                }
+            },
+            {
+                "when": "crafters_candy_canes",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/crafters_candy_canes"
+                }
+            },
+            {
+                "when": "giftwrapped",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/giftwrapped"
+                }
+            },
+            {
+                "when": "happy_ghast",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/happy_ghast"
+                }
+            },
+            {
+                "when": "nautilus",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/nautilus"
+                }
+            },
+            {
+                "when": "spears",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/spears"
+                }
+            },
+            {
+                "when": "the_copper_age",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/the_copper_age"
+                }
+            },
+            {
+                "when": "wondrous_workshop",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave8/wondrous_workshop"
+                }
+            },
+            {
+                "when": "dont_mine_at_night",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/dont_mine_at_night"
+                }
+            },
+            {
+                "when": "dragonhearted",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/dragonhearted"
+                }
+            },
+            {
+                "when": "find_the_pieces",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/find_the_pieces"
+                }
+            },
+            {
+                "when": "rising_kingdom",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/rising_kingdom"
+                }
+            },
+            {
+                "when": "take_back_the_night",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/take_back_the_night"
+                }
             }
         ]
     }

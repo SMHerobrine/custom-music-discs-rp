@@ -335,9 +335,6 @@
             }
         ]
     },
-
-
-
     "music_disc.never_gonna_give_you_up": {
         "sounds": [
             {
@@ -619,8 +616,6 @@
             }
         ]
     },
-
-
     "music_disc.cg5_sweden": {
         "sounds": [
             {
@@ -997,6 +992,330 @@
             {
                 "name": "records/wave7/thefatrat_mayday",
                 "stream": true
+            }
+        ]
+    },
+    "music_disc.makrani_dhun": {
+        "sounds": [
+            {
+                "name": "records/wave7/makrani_dhun",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.forrest_frank_your_ways_better": {
+        "sounds": [
+            {
+                "name": "records/wave7/forrest_frank_your_ways_better",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.villager_lullaby": {
+        "sounds": [
+            {
+                "name": "records/wave7/villager_lullaby",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.creator_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/creator_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deeper_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/deeper_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.eld_unknown_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/eld_unknown_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.endless_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/endless_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.featherfall_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/featherfall_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.infinite_amethyst_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/infinite_amethyst_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.komorebi_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/komorebi_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pokopoko_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/pokopoko_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.precipice_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/precipice_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.puzzlebox_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/puzzlebox_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.watcher_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/watcher_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.yakusoku_pixel_remix": {
+        "sounds": [
+            {
+                "name": "records/wave7/yakusoku_pixel_remix",
+                "stream": true
+            }
+        ]
+    },
+        "music_disc.infinite_spooky_amethyst": {
+        "sounds": [
+            {
+                "name": "records/wave8/infinite_spooky_amethyst",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.copper_golem": {
+        "sounds": [
+            {
+                "name": "records/wave8/copper_golem",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.crafters_candy_canes": {
+        "sounds": [
+            {
+                "name": "records/wave8/crafters_candy_canes",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.giftwrapped": {
+        "sounds": [
+            {
+                "name": "records/wave8/giftwrapped",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.happy_ghast": {
+        "sounds": [
+            {
+                "name": "records/wave8/happy_ghast",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.nautilus": {
+        "sounds": [
+            {
+                "name": "records/wave8/nautilus",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.spears": {
+        "sounds": [
+            {
+                "name": "records/wave8/spears",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.the_copper_age": {
+        "sounds": [
+            {
+                "name": "records/wave8/the_copper_age",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.wondrous_workshop": {
+        "sounds": [
+            {
+                "name": "records/wave8/wondrous_workshop",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dont_mine_at_night": {
+        "sounds": [
+            {
+                "name": "records/wave9/dont_mine_at_night",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.dragonhearted": {
+        "sounds": [
+            {
+                "name": "records/wave9/dragonhearted",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.find_the_pieces": {
+        "sounds": [
+            {
+                "name": "records/wave9/find_the_pieces",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.rising_kingdom": {
+        "sounds": [
+            {
+                "name": "records/wave9/rising_kingdom",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.take_back_the_night": {
+        "sounds": [
+            {
+                "name": "records/wave9/take_back_the_night",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.you_can_find_it": {
+        "sounds": [
+            {
+                "name": "records/wave9/you_can_find_it",
+                "stream": true
+            }
+        ]
+    },
+    "music.menu": {
+        "sounds": [
+            {
+                "name": "records/wave8/copper_golem",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "record/bounce",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave9/you_can_find_it",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave8/happy_ghast",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave8/infinite_spooky_amethyst",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave8/nautilus",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave8/spears",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave8/the_copper_age",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave9/dont_mine_at_night",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave9/dragonhearted",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave9/find_the_pieces",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave9/rising_kingdom",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave9/take_back_the_night",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave1/tnt",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave1/revenge",
+                "stream": true,
+                "volume": 0.4
+            },
+            {
+                "name": "records/wave1/fallen_kingdom",
+                "stream": true,
+                "volume": 0.4
             }
         ]
     }

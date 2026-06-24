@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/totem_of_undying"
+        },
+        "cases": [
+            {
+                "when": "you_can_find_it",
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet"
+                }
+            }
+        ]
+    }
+}

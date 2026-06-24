@@ -622,6 +622,160 @@
             "ascent": 1,
             "height": 155,
             "chars": ["\uE088"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave6_undertale_snowy.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE089"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_forrest_frank_your_ways_better.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE090"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_infinite_amethyst_pixel_remix.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE091"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_komorebi_pixel_remix.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE092"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/lite6_happy_birthday.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE093"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/lite7_creator_pixel_remix.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE094"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/lite7_precipice_pixel_remix.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE095"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/lite7_puzzlebox_pixel_remix.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE096"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/lite7_thefatrat_mayday.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE097"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_copper_golem.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE098"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_giftwrapped.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE099"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_happy_ghast.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_infinite_spooky_amethyst.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_nautilus.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_spears.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave8_the_copper_age.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_dont_mine_at_night.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_dragonhearted.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_find_the_pieces.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_rising_kingdom.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE108"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_take_back_the_night.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE109"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave9_you_can_find_it.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE110"]
         }
     ]
 }
