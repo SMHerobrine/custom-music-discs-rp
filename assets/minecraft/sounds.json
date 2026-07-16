@@ -1235,85 +1235,285 @@
             }
         ]
     },
+    "music_disc.departure": {
+        "sounds": [
+            {
+                "name": "records/wave9/departure",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.level_1": {
+        "sounds": [
+            {
+                "name": "records/wave9/level_1",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.level_2": {
+        "sounds": [
+            {
+                "name": "records/wave9/level_2",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.level_3": {
+        "sounds": [
+            {
+                "name": "records/wave9/level_3",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pokemon_battle_frontier": {
+        "sounds": [
+            {
+                "name": "records/wave9/pokemon_battle_frontier",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pokemon_be_a_hero": {
+        "sounds": [
+            {
+                "name": "records/wave9/pokemon_be_a_hero",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pokemon_black_and_white_theme": {
+        "sounds": [
+            {
+                "name": "records/wave9/pokemon_black_and_white_theme",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pokemon_dpp_trainer_battle": {
+        "sounds": [
+            {
+                "name": "records/wave9/pokemon_dpp_trainer_battle",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pokemon_theme_song": {
+        "sounds": [
+            {
+                "name": "records/wave9/pokemon_theme_song",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.the_cruel_angels_thesis": {
+        "sounds": [
+            {
+                "name": "records/wave9/the_cruel_angels_thesis",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.a_dark_zone": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/a_dark_zone",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.black_knife": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/black_knife",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.dark_sanctuary": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/dark_sanctuary",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.from_now_on": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/from_now_on",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.glaceir": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/glaceir",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.guardian": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/guardian",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.hammer_of_justice": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/hammer_of_justice",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.its_tv_time": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/its_tv_time",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.neverending_night": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/neverending_night",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.raise_up_your_bat": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/raise_up_your_bat",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.ruder_buster": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/ruder_buster",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.the_second_sanctuary": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/the_second_sanctuary",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.the_third_sanctuary": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/the_third_sanctuary",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.tv_world": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/tv_world",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.deltarune.welcome_to_the_green_room": {
+        "sounds": [
+            {
+                "name": "records/wave9/deltarune/welcome_to_the_green_room",
+                "stream": true
+            }
+        ]
+    },
     "music.menu": {
         "sounds": [
             {
-                "name": "records/wave8/copper_golem",
+                "name": "records/wave9/pokemon_theme_song",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "record/bounce",
+                "name": "records/wave9/the_cruel_angels_thesis",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/you_can_find_it",
+                "name": "records/wave9/pokemon_be_a_hero",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave8/happy_ghast",
+                "name": "records/wave9/pokemon_be_a_hero",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave8/infinite_spooky_amethyst",
+                "name": "records/wave9/pokemon_black_and_white_theme",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave8/nautilus",
+                "name": "records/wave9/pokemon_dpp_trainer_battle",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave8/spears",
+                "name": "records/wave9/level_3",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave8/the_copper_age",
+                "name": "records/wave9/departure",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/dont_mine_at_night",
+                "name": "records/wave9/deltarune/tv_world",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/dragonhearted",
+                "name": "records/wave9/deltarune/black_knife",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/find_the_pieces",
+                "name": "records/wave9/deltarune/from_now_on",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/rising_kingdom",
+                "name": "records/wave9/deltarune/glaceir",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/take_back_the_night",
+                "name": "records/wave9/deltarune/the_second_sanctuary",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave1/tnt",
+                "name": "records/wave6/undertale/006_uwa_so_temperate",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave1/revenge",
+                "name": "records/wave6/undertale/001_once_upon_a_time",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave1/fallen_kingdom",
+                "name": "records/wave6/undertale/010_ghost_fight",
                 "stream": true,
                 "volume": 0.4
             }
