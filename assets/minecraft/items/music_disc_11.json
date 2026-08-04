@@ -1077,6 +1077,181 @@
                     "type": "model",
                     "model": "item/wave9/take_back_the_night"
                 }
+            },
+            {
+                "when": "cruel_angels_thesis",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/cruel_angels_thesis"
+                }
+            },
+            {
+                "when": "departure",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/departure"
+                }
+            },
+            {
+                "when": "level_1",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/level_1"
+                }
+            },
+            {
+                "when": "level_2",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/level_2"
+                }
+            },
+            {
+                "when": "level_3",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/level_3"
+                }
+            },
+            {
+                "when": "deltarune_a_dark_zone",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_a_dark_zone"
+                }
+            },
+            {
+                "when": "deltarune_black_knife",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_black_knife"
+                }
+            },
+            {
+                "when": "deltarune_dark_sanctuary",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_dark_sanctuary"
+                }
+            },
+            {
+                "when": "deltarune_from_now_on",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_from_now_on"
+                }
+            },
+            {
+                "when": "deltarune_glaceir",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_glaceir"
+                }
+            },
+            {
+                "when": "deltarune_guardian",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_guardian"
+                }
+            },
+            {
+                "when": "deltarune_hammer_of_justice",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_hammer_of_justice"
+                }
+            },
+            {
+                "when": "deltarune_its_tv_time",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_its_tv_time"
+                }
+            },
+            {
+                "when": "deltarune_neverending_night",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_neverending_night"
+                }
+            },
+            {
+                "when": "deltarune_raise_up_your_bat",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_raise_up_your_bat"
+                }
+            },
+            {
+                "when": "deltarune_ruder_buster",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_ruder_buster"
+                }
+            },
+            {
+                "when": "deltarune_the_second_sanctuary",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_the_second_sanctuary"
+                }
+            },
+            {
+                "when": "deltarune_the_third_sanctuary",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_the_third_sanctuary"
+                }
+            },
+            {
+                "when": "deltarune_tv_world",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_tv_world"
+                }
+            },
+            {
+                "when": "deltarune_welcome_to_the_green_room",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/deltarune_welcome_to_the_green_room"
+                }
+            },
+            {
+                "when": "pokemon_theme_song",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/pokemon_theme_song"
+                }
+            },
+            {
+                "when": "pokemon_battle_frontier",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/pokemon_battle_frontier"
+                }
+            },
+            {
+                "when": "pokemon_be_a_hero",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/pokemon_be_a_hero"
+                }
+            },
+            {
+                "when": "pokemon_black_and_white_theme",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/pokemon_black_and_white_theme"
+                }
+            },
+            {
+                "when": "pokemon_dpp_trainer_battle",
+                "model": {
+                    "type": "model",
+                    "model": "item/wave9/pokemon_dpp_trainer_battle"
+                }
             }
         ]
     }
