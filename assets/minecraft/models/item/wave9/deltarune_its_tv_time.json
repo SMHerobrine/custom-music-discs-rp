@@ -1,6 +1,6 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/wave9/deltarune_its_tv_time"
+        "layer0": "minecraft:item/wave9/deltarune_its_tv_time"
     }
 }
