@@ -266,7 +266,7 @@
     "music_disc.dan_gingerbread_dan": {
         "sounds": [
             {
-                "name": "records/wave3/dan_gingerbread_dan",
+                "name": "records/wave2/dan_gingerbread_dan",
                 "stream": true
             }
         ]
@@ -274,7 +274,7 @@
     "music_disc.dan_monster": {
         "sounds": [
             {
-                "name": "records/wave3/dan_monster",
+                "name": "records/wave2/dan_monster",
                 "stream": true
             }
         ]
@@ -282,7 +282,7 @@
     "music_disc.dan_im_dead": {
         "sounds": [
             {
-                "name": "records/wave3/dan_im_dead",
+                "name": "records/wave2/dan_im_dead",
                 "stream": true
             }
         ]
@@ -290,7 +290,7 @@
     "music_disc.dan_happening": {
         "sounds": [
             {
-                "name": "records/wave3/dan_happening",
+                "name": "records/wave2/dan_happening",
                 "stream": true
             }
         ]
@@ -298,7 +298,7 @@
     "music_disc.dan_smashing_it": {
         "sounds": [
             {
-                "name": "records/wave3/dan_smashing_it",
+                "name": "records/wave2/dan_smashing_it",
                 "stream": true
             }
         ]
@@ -306,7 +306,7 @@
     "music_disc.dan_dab_lasagna": {
         "sounds": [
             {
-                "name": "records/wave3/dan_dab_lasagna",
+                "name": "records/wave2/dan_dab_lasagna",
                 "stream": true
             }
         ]
@@ -314,7 +314,7 @@
     "music_disc.bitch_lasagna": {
         "sounds": [
             {
-                "name": "records/wave3/bitch_lasagna",
+                "name": "records/wave2/bitch_lasagna",
                 "stream": true
             }
         ]
@@ -322,7 +322,7 @@
     "music_disc.congratulations": {
         "sounds": [
             {
-                "name": "records/wave3/congratulations",
+                "name": "records/wave2/congratulations",
                 "stream": true
             }
         ]
@@ -330,7 +330,7 @@
     "music_disc.mario_in_the_final": {
         "sounds": [
             {
-                "name": "records/wave3/mario_in_the_final",
+                "name": "records/wave2/mario_in_the_final",
                 "stream": true
             }
         ]
@@ -338,7 +338,7 @@
     "music_disc.never_gonna_give_you_up": {
         "sounds": [
             {
-                "name": "records/wave4/never_gonna_give_you_up",
+                "name": "records/wave3/never_gonna_give_you_up",
                 "stream": true
             }
         ]
@@ -346,7 +346,7 @@
     "music_disc.revenge_acapella": {
         "sounds": [
             {
-                "name": "records/wave4/revenge_acapella",
+                "name": "records/wave3/revenge_acapella",
                 "stream": true
             }
         ]
@@ -354,15 +354,15 @@
     "music_disc.mice_on_venus_acapella": {
         "sounds": [
             {
-                "name": "records/wave4/mice_on_venus_acapella",
+                "name": "records/wave3/mice_on_venus_acapella",
                 "stream": true
             }
         ]
     },
-    "music_disc.wave4.sweden_acapella": {
+    "music_disc.wave3.sweden_acapella": {
         "sounds": [
             {
-                "name": "records/wave4/wave4_sweden_acapella",
+                "name": "records/wave3/wave3_sweden_acapella",
                 "stream": true
             }
         ]
@@ -370,7 +370,7 @@
     "music_disc.subwoofer_lullaby_orchestra": {
         "sounds": [
             {
-                "name": "records/wave4/subwoofer_lullaby_orchestra",
+                "name": "records/wave3/subwoofer_lullaby_orchestra",
                 "stream": true
             }
         ]
@@ -378,7 +378,7 @@
     "music_disc.sweden_hans_zimmer": {
         "sounds": [
             {
-                "name": "records/wave4/sweden_hans_zimmer",
+                "name": "records/wave3/sweden_hans_zimmer",
                 "stream": true
             }
         ]
@@ -386,7 +386,7 @@
     "music_disc.mice_on_venus_sad_film_score": {
         "sounds": [
             {
-                "name": "records/wave4/mice_on_venus_sad_film_score",
+                "name": "records/wave3/mice_on_venus_sad_film_score",
                 "stream": true
             }
         ]
@@ -394,7 +394,7 @@
     "music_disc.aria_math_epic_soundtrack": {
         "sounds": [
             {
-                "name": "records/wave4/aria_math_epic_soundtrack",
+                "name": "records/wave3/aria_math_epic_soundtrack",
                 "stream": true
             }
         ]
@@ -402,7 +402,7 @@
     "music_disc.wet_hands_uplifting_adventurous_soundtrack": {
         "sounds": [
             {
-                "name": "records/wave4/wet_hands_uplifting_adventurous_soundtrack",
+                "name": "records/wave3/wet_hands_uplifting_adventurous_soundtrack",
                 "stream": true
             }
         ]
@@ -410,7 +410,7 @@
     "music_disc.mcsoundtrack_anime_opening_song": {
         "sounds": [
             {
-                "name": "records/wave4/mcsoundtrack_anime_opening_song",
+                "name": "records/wave3/mcsoundtrack_anime_opening_song",
                 "stream": true
             }
         ]
@@ -418,7 +418,7 @@
     "music_disc.living_mice_synthwave": {
         "sounds": [
             {
-                "name": "records/wave4/living_mice_synthwave",
+                "name": "records/wave3/living_mice_synthwave",
                 "stream": true
             }
         ]
@@ -427,7 +427,7 @@
     "music_disc.sweden_lofi_hiphop_remix": {
         "sounds": [
             {
-                "name": "records/wave4/sweden_lofi_hiphop_remix",
+                "name": "records/wave3/sweden_lofi_hiphop_remix",
                 "stream": true
             }
         ]
@@ -435,7 +435,7 @@
     "music_disc.haggstrom_john_williams": {
         "sounds": [
             {
-                "name": "records/wave4/haggstrom_john_williams",
+                "name": "records/wave3/haggstrom_john_williams",
                 "stream": true
             }
         ]
@@ -443,7 +443,7 @@
     "music_disc.moog_city_orchestral_synthwave_remix": {
         "sounds": [
             {
-                "name": "records/wave4/moog_city_orchestral_synthwave_remix",
+                "name": "records/wave3/moog_city_orchestral_synthwave_remix",
                 "stream": true
             }
         ]
@@ -451,7 +451,7 @@
     "music_disc.danny_disney_movie_soundtrack": {
         "sounds": [
             {
-                "name": "records/wave4/danny_disney_movie_soundtrack",
+                "name": "records/wave3/danny_disney_movie_soundtrack",
                 "stream": true
             }
         ]
@@ -459,7 +459,7 @@
     "music_disc.dry_hands_funky_synthwave": {
         "sounds": [
             {
-                "name": "records/wave4/dry_hands_funky_synthwave",
+                "name": "records/wave3/dry_hands_funky_synthwave",
                 "stream": true
             }
         ]
@@ -467,7 +467,7 @@
     "music_disc.sweden_hans_zimmer_slowed_reverb": {
         "sounds": [
             {
-                "name": "records/wave4/sweden_hans_zimmer_slowed_reverb",
+                "name": "records/wave3/sweden_hans_zimmer_slowed_reverb",
                 "stream": true
             }
         ]
@@ -475,7 +475,7 @@
     "music_disc.aria_math_synthwave": {
         "sounds": [
             {
-                "name": "records/wave4/aria_math_synthwave",
+                "name": "records/wave3/aria_math_synthwave",
                 "stream": true
             }
         ]
@@ -483,7 +483,7 @@
     "music_disc.pigstep_epic_orchestral_remix": {
         "sounds": [
             {
-                "name": "records/wave4/pigstep_epic_orchestral_remix",
+                "name": "records/wave3/pigstep_epic_orchestral_remix",
                 "stream": true
             }
         ]
@@ -491,7 +491,7 @@
     "music_disc.c418_legacy": {
         "sounds": [
             {
-                "name": "records/wave4/c418_legacy",
+                "name": "records/wave3/c418_legacy",
                 "stream": true
             }
         ]
@@ -499,7 +499,7 @@
     "music_disc.mcrap.boom_boom_boom": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_boom_boom_boom",
+                "name": "records/wave3/mcrap_boom_boom_boom",
                 "stream": true
             }
         ]
@@ -507,7 +507,7 @@
     "music_disc.mcrap.quiet_please": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_quiet_please",
+                "name": "records/wave3/mcrap_quiet_please",
                 "stream": true
             }
         ]
@@ -515,7 +515,7 @@
     "music_disc.mcrap.bull_is_the_spider": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_bull_is_the_spider",
+                "name": "records/wave3/mcrap_bull_is_the_spider",
                 "stream": true
             }
         ]
@@ -523,7 +523,7 @@
     "music_disc.mcrap.pigman": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_pigman",
+                "name": "records/wave3/mcrap_pigman",
                 "stream": true
             }
         ]
@@ -531,7 +531,7 @@
     "music_disc.mcrap.the_ballad_of_bob_the_snow_golem": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_the_ballad_of_bob_the_snow_golem",
+                "name": "records/wave3/mcrap_the_ballad_of_bob_the_snow_golem",
                 "stream": true
             }
         ]
@@ -539,7 +539,7 @@
     "music_disc.mcrap.creeper_remix": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_creeper_remix",
+                "name": "records/wave3/mcrap_creeper_remix",
                 "stream": true
             }
         ]
@@ -547,7 +547,7 @@
     "music_disc.mcrap.dont_mess_with_the_endermen": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_dont_mess_with_the_endermen",
+                "name": "records/wave3/mcrap_dont_mess_with_the_endermen",
                 "stream": true
             }
         ]
@@ -555,7 +555,7 @@
     "music_disc.mcrap.ive_got_a_bone": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_ive_got_a_bone",
+                "name": "records/wave3/mcrap_ive_got_a_bone",
                 "stream": true
             }
         ]
@@ -563,7 +563,7 @@
     "music_disc.mcrap.im_a_zombie": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_im_a_zombie",
+                "name": "records/wave3/mcrap_im_a_zombie",
                 "stream": true
             }
         ]
@@ -571,7 +571,7 @@
     "music_disc.mcrap.the_arch_illager": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_the_arch_illager",
+                "name": "records/wave3/mcrap_the_arch_illager",
                 "stream": true
             }
         ]
@@ -579,7 +579,7 @@
     "music_disc.mcrap.the_last_guardian": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_the_last_guardian",
+                "name": "records/wave3/mcrap_the_last_guardian",
                 "stream": true
             }
         ]
@@ -587,7 +587,7 @@
     "music_disc.mcrap.busy_buzzy_bees": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_busy_buzzy_bees",
+                "name": "records/wave3/mcrap_busy_buzzy_bees",
                 "stream": true
             }
         ]
@@ -595,7 +595,7 @@
     "music_disc.mcrap.skeleton_remix": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_skeleton_remix",
+                "name": "records/wave3/mcrap_skeleton_remix",
                 "stream": true
             }
         ]
@@ -603,7 +603,7 @@
     "music_disc.mcrap.rap_battle": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_rap_battle",
+                "name": "records/wave3/mcrap_rap_battle",
                 "stream": true
             }
         ]
@@ -611,7 +611,7 @@
     "music_disc.mcrap.just_another_day": {
         "sounds": [
             {
-                "name": "records/wave4/mcrap_just_another_day",
+                "name": "records/wave3/mcrap_just_another_day",
                 "stream": true
             }
         ]
@@ -619,7 +619,7 @@
     "music_disc.cg5_sweden": {
         "sounds": [
             {
-                "name": "records/wave5/cg5_sweden",
+                "name": "records/wave4/cg5_sweden",
                 "stream": true
             }
         ]
@@ -627,7 +627,7 @@
     "music_disc.hardcore_disc": {
         "sounds": [
             {
-                "name": "records/wave5/hardcore_disc",
+                "name": "records/wave4/hardcore_disc",
                 "stream": true
             }
         ]
@@ -635,7 +635,7 @@
     "music_disc.sweet_dreams": {
         "sounds": [
             {
-                "name": "records/wave5/sweet_dreams",
+                "name": "records/wave4/sweet_dreams",
                 "stream": true
             }
         ]
@@ -643,7 +643,7 @@
     "music_disc.mclofi.relic_remix": {
         "sounds": [
             {
-                "name": "records/wave5/mining/relic_remix",
+                "name": "records/wave4/mining/relic_remix",
                 "stream": true
             }
         ]
@@ -651,7 +651,7 @@
     "music_disc.mclofi.crescent_dunes_remix": {
         "sounds": [
             {
-                "name": "records/wave5/mining/crescent_dunes_remix",
+                "name": "records/wave4/mining/crescent_dunes_remix",
                 "stream": true
             }
         ]
@@ -659,7 +659,7 @@
     "music_disc.mclofi.bromeliad_remix": {
         "sounds": [
             {
-                "name": "records/wave5/mining/bromeliad_remix",
+                "name": "records/wave4/mining/bromeliad_remix",
                 "stream": true
             }
         ]
@@ -667,7 +667,7 @@
     "music_disc.mclofi.a_familiar_room_remix": {
         "sounds": [
             {
-                "name": "records/wave5/mining/a_familiar_room_remix",
+                "name": "records/wave4/mining/a_familiar_room_remix",
                 "stream": true
             }
         ]
@@ -675,7 +675,7 @@
     "music_disc.mclofi.echo_in_the_wind_remix": {
         "sounds": [
             {
-                "name": "records/wave5/mining/echo_in_the_wind_remix",
+                "name": "records/wave4/mining/echo_in_the_wind_remix",
                 "stream": true
             }
         ]
@@ -683,7 +683,7 @@
     "music_disc.mclofi.broken_heart_of_ender_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/broken_heart_of_ender_remix",
+                "name": "records/wave4/dungeons/broken_heart_of_ender_remix",
                 "stream": true
             }
         ]
@@ -691,7 +691,7 @@
     "music_disc.mclofi.coral_rise_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/coral_rise_remix",
+                "name": "records/wave4/dungeons/coral_rise_remix",
                 "stream": true
             }
         ]
@@ -699,7 +699,7 @@
     "music_disc.mclofi.crimson_forest_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/crimson_forest_remix",
+                "name": "records/wave4/dungeons/crimson_forest_remix",
                 "stream": true
             }
         ]
@@ -707,7 +707,7 @@
     "music_disc.mclofi.dalarna_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/dalarna_remix",
+                "name": "records/wave4/dungeons/dalarna_remix",
                 "stream": true
             }
         ]
@@ -715,7 +715,7 @@
     "music_disc.mclofi.dalarna2_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/dalarna2_remix",
+                "name": "records/wave4/dungeons/dalarna2_remix",
                 "stream": true
             }
         ]
@@ -723,7 +723,7 @@
     "music_disc.mclofi.desert_temple_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/desert_temple_remix",
+                "name": "records/wave4/dungeons/desert_temple_remix",
                 "stream": true
             }
         ]
@@ -731,7 +731,7 @@
     "music_disc.mclofi.evoker_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/evoker_remix",
+                "name": "records/wave4/dungeons/evoker_remix",
                 "stream": true
             }
         ]
@@ -739,7 +739,7 @@
     "music_disc.mclofi.ghast_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/ghast_remix",
+                "name": "records/wave4/dungeons/ghast_remix",
                 "stream": true
             }
         ]
@@ -747,7 +747,7 @@
     "music_disc.mclofi.halland_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/halland_remix",
+                "name": "records/wave4/dungeons/halland_remix",
                 "stream": true
             }
         ]
@@ -755,7 +755,7 @@
     "music_disc.mclofi.mooshroom_island_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/mooshroom_island_remix",
+                "name": "records/wave4/dungeons/mooshroom_island_remix",
                 "stream": true
             }
         ]
@@ -763,7 +763,7 @@
     "music_disc.mclofi.the_arch_illager_remix": {
         "sounds": [
             {
-                "name": "records/wave5/dungeons/the_arch_illager_remix",
+                "name": "records/wave4/dungeons/the_arch_illager_remix",
                 "stream": true
             }
         ]
@@ -771,7 +771,7 @@
     "music_disc.mclofi.a_day_long_awaited_remix": {
         "sounds": [
             {
-                "name": "records/wave5/legends/a_day_long_awaited_remix",
+                "name": "records/wave4/legends/a_day_long_awaited_remix",
                 "stream": true
             }
         ]
@@ -779,7 +779,7 @@
     "music_disc.mclofi.a_time_of_legends_remix": {
         "sounds": [
             {
-                "name": "records/wave5/legends/a_time_of_legends_remix",
+                "name": "records/wave4/legends/a_time_of_legends_remix",
                 "stream": true
             }
         ]
@@ -787,7 +787,7 @@
     "music_disc.mclofi.alone_with_the_sky_remix": {
         "sounds": [
             {
-                "name": "records/wave5/legends/alone_with_the_sky_remix",
+                "name": "records/wave4/legends/alone_with_the_sky_remix",
                 "stream": true
             }
         ]
@@ -795,7 +795,7 @@
     "music_disc.mclofi.blue_ice_white_snow_remix": {
         "sounds": [
             {
-                "name": "records/wave5/legends/blue_ice_white_snow_remix",
+                "name": "records/wave4/legends/blue_ice_white_snow_remix",
                 "stream": true
             }
         ]
@@ -803,7 +803,7 @@
     "music_disc.mclofi.lute_skit_remix": {
         "sounds": [
             {
-                "name": "records/wave5/legends/lute_skit",
+                "name": "records/wave4/legends/lute_skit",
                 "stream": true
             }
         ]
@@ -811,7 +811,7 @@
     "music_disc.mclofi.new_worlds_new_adventures_remix": {
         "sounds": [
             {
-                "name": "records/wave5/legends/new_worlds_new_adventures_remix",
+                "name": "records/wave4/legends/new_worlds_new_adventures_remix",
                 "stream": true
             }
         ]
@@ -819,7 +819,7 @@
     "music_disc.mclofi.the_coming_war_remix": {
         "sounds": [
             {
-                "name": "records/wave5/legends/the_coming_war_remix",
+                "name": "records/wave4/legends/the_coming_war_remix",
                 "stream": true
             }
         ]
@@ -827,7 +827,7 @@
     "music_disc.mclofi.the_green_expanse_remix": {
         "sounds": [
             {
-                "name": "records/wave5/legends/the_green_expanse_remix",
+                "name": "records/wave4/legends/the_green_expanse_remix",
                 "stream": true
             }
         ]
@@ -835,7 +835,7 @@
     "music_disc.mclofi.the_well_of_fate_remix": {
         "sounds": [
             {
-                "name": "records/wave5/legends/the_well_of_fate_remix",
+                "name": "records/wave4/legends/the_well_of_fate_remix",
                 "stream": true
             }
         ]
@@ -845,7 +845,7 @@
     "music_disc.minecraft_shape_your_world": {
         "sounds": [
             {
-                "name": "records/wave6/minecraft_shape_your_world",
+                "name": "records/wave5/minecraft_shape_your_world",
                 "stream": true
             }
         ]
@@ -853,7 +853,7 @@
     "music_disc.thefatrat_fly_away": {
         "sounds": [
             {
-                "name": "records/wave6/thefatrat_fly_away",
+                "name": "records/wave5/thefatrat_fly_away",
                 "stream": true
             }
         ]
@@ -861,7 +861,7 @@
     "music_disc.thefatrat_sail_away": {
         "sounds": [
             {
-                "name": "records/wave6/thefatrat_sail_away",
+                "name": "records/wave5/thefatrat_sail_away",
                 "stream": true
             }
         ]
@@ -870,7 +870,7 @@
     "music_disc.undertale.once_upon_a_time": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/001_once_upon_a_time",
+                "name": "records/wave5/undertale/001_once_upon_a_time",
                 "stream": true
             }
         ]
@@ -878,7 +878,7 @@
     "music_disc.undertale.fallen_down": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/004_fallen_down",
+                "name": "records/wave5/undertale/004_fallen_down",
                 "stream": true
             }
         ]
@@ -886,7 +886,7 @@
     "music_disc.undertale.ruins": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/005_ruins",
+                "name": "records/wave5/undertale/005_ruins",
                 "stream": true
             }
         ]
@@ -894,7 +894,7 @@
     "music_disc.undertale.uwa_so_temperate": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/006_uwa_so_temperate",
+                "name": "records/wave5/undertale/006_uwa_so_temperate",
                 "stream": true
             }
         ]
@@ -902,7 +902,7 @@
     "music_disc.undertale.enemy_approaching": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/009_enemy_approaching",
+                "name": "records/wave5/undertale/009_enemy_approaching",
                 "stream": true
             }
         ]
@@ -910,7 +910,7 @@
     "music_disc.undertale.ghost_fight": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/010_ghost_fight",
+                "name": "records/wave5/undertale/010_ghost_fight",
                 "stream": true
             }
         ]
@@ -918,7 +918,7 @@
     "music_disc.undertale.determination": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/011_determination",
+                "name": "records/wave5/undertale/011_determination",
                 "stream": true
             }
         ]
@@ -926,7 +926,7 @@
     "music_disc.undertale.home": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/012_home",
+                "name": "records/wave5/undertale/012_home",
                 "stream": true
             }
         ]
@@ -934,7 +934,7 @@
     "music_disc.undertale.home_music_box": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/013_home_music_box",
+                "name": "records/wave5/undertale/013_home_music_box",
                 "stream": true
             }
         ]
@@ -942,7 +942,7 @@
     "music_disc.undertale.heartache": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/014_heartache",
+                "name": "records/wave5/undertale/014_heartache",
                 "stream": true
             }
         ]
@@ -950,7 +950,7 @@
     "music_disc.undertale.sans": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/015_sans",
+                "name": "records/wave5/undertale/015_sans",
                 "stream": true
             }
         ]
@@ -958,7 +958,7 @@
     "music_disc.undertale.snowy": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/017_snowy",
+                "name": "records/wave5/undertale/017_snowy",
                 "stream": true
             }
         ]
@@ -966,7 +966,7 @@
     "music_disc.undertale.dogsong": {
         "sounds": [
             {
-                "name": "records/wave6/undertale/021_dogsong",
+                "name": "records/wave5/undertale/021_dogsong",
                 "stream": true
             }
         ]
@@ -974,7 +974,7 @@
     "music_disc.soothing_farm": {
         "sounds": [
             {
-                "name": "records/wave6/soothing_farm",
+                "name": "records/wave5/soothing_farm",
                 "stream": true
             }
         ]
@@ -982,7 +982,7 @@
     "music_disc.happy_birthday": {
         "sounds": [
             {
-                "name": "records/wave6/happy_birthday",
+                "name": "records/wave5/happy_birthday",
                 "stream": true
             }
         ]
@@ -990,7 +990,7 @@
     "music_disc.thefatrat_mayday": {
         "sounds": [
             {
-                "name": "records/wave7/thefatrat_mayday",
+                "name": "records/wave6/thefatrat_mayday",
                 "stream": true
             }
         ]
@@ -998,7 +998,7 @@
     "music_disc.makrani_dhun": {
         "sounds": [
             {
-                "name": "records/wave7/makrani_dhun",
+                "name": "records/wave6/makrani_dhun",
                 "stream": true
             }
         ]
@@ -1006,7 +1006,7 @@
     "music_disc.forrest_frank_your_ways_better": {
         "sounds": [
             {
-                "name": "records/wave7/forrest_frank_your_ways_better",
+                "name": "records/wave6/forrest_frank_your_ways_better",
                 "stream": true
             }
         ]
@@ -1014,7 +1014,7 @@
     "music_disc.villager_lullaby": {
         "sounds": [
             {
-                "name": "records/wave7/villager_lullaby",
+                "name": "records/wave6/villager_lullaby",
                 "stream": true
             }
         ]
@@ -1022,7 +1022,7 @@
     "music_disc.creator_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/creator_pixel_remix",
+                "name": "records/wave6/creator_pixel_remix",
                 "stream": true
             }
         ]
@@ -1030,7 +1030,7 @@
     "music_disc.deeper_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/deeper_pixel_remix",
+                "name": "records/wave6/deeper_pixel_remix",
                 "stream": true
             }
         ]
@@ -1038,7 +1038,7 @@
     "music_disc.eld_unknown_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/eld_unknown_pixel_remix",
+                "name": "records/wave6/eld_unknown_pixel_remix",
                 "stream": true
             }
         ]
@@ -1046,7 +1046,7 @@
     "music_disc.endless_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/endless_pixel_remix",
+                "name": "records/wave6/endless_pixel_remix",
                 "stream": true
             }
         ]
@@ -1054,7 +1054,7 @@
     "music_disc.featherfall_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/featherfall_pixel_remix",
+                "name": "records/wave6/featherfall_pixel_remix",
                 "stream": true
             }
         ]
@@ -1062,7 +1062,7 @@
     "music_disc.infinite_amethyst_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/infinite_amethyst_pixel_remix",
+                "name": "records/wave6/infinite_amethyst_pixel_remix",
                 "stream": true
             }
         ]
@@ -1070,7 +1070,7 @@
     "music_disc.komorebi_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/komorebi_pixel_remix",
+                "name": "records/wave6/komorebi_pixel_remix",
                 "stream": true
             }
         ]
@@ -1078,7 +1078,7 @@
     "music_disc.pokopoko_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/pokopoko_pixel_remix",
+                "name": "records/wave6/pokopoko_pixel_remix",
                 "stream": true
             }
         ]
@@ -1086,7 +1086,7 @@
     "music_disc.precipice_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/precipice_pixel_remix",
+                "name": "records/wave6/precipice_pixel_remix",
                 "stream": true
             }
         ]
@@ -1094,7 +1094,7 @@
     "music_disc.puzzlebox_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/puzzlebox_pixel_remix",
+                "name": "records/wave6/puzzlebox_pixel_remix",
                 "stream": true
             }
         ]
@@ -1102,7 +1102,7 @@
     "music_disc.watcher_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/watcher_pixel_remix",
+                "name": "records/wave6/watcher_pixel_remix",
                 "stream": true
             }
         ]
@@ -1110,7 +1110,7 @@
     "music_disc.yakusoku_pixel_remix": {
         "sounds": [
             {
-                "name": "records/wave7/yakusoku_pixel_remix",
+                "name": "records/wave6/yakusoku_pixel_remix",
                 "stream": true
             }
         ]
@@ -1118,7 +1118,7 @@
         "music_disc.infinite_spooky_amethyst": {
         "sounds": [
             {
-                "name": "records/wave8/infinite_spooky_amethyst",
+                "name": "records/wave6/infinite_spooky_amethyst",
                 "stream": true
             }
         ]
@@ -1126,7 +1126,7 @@
     "music_disc.copper_golem": {
         "sounds": [
             {
-                "name": "records/wave8/copper_golem",
+                "name": "records/wave6/copper_golem",
                 "stream": true
             }
         ]
@@ -1134,7 +1134,7 @@
     "music_disc.crafters_candy_canes": {
         "sounds": [
             {
-                "name": "records/wave8/crafters_candy_canes",
+                "name": "records/wave6/crafters_candy_canes",
                 "stream": true
             }
         ]
@@ -1142,7 +1142,7 @@
     "music_disc.giftwrapped": {
         "sounds": [
             {
-                "name": "records/wave8/giftwrapped",
+                "name": "records/wave6/giftwrapped",
                 "stream": true
             }
         ]
@@ -1150,7 +1150,7 @@
     "music_disc.happy_ghast": {
         "sounds": [
             {
-                "name": "records/wave8/happy_ghast",
+                "name": "records/wave6/happy_ghast",
                 "stream": true
             }
         ]
@@ -1158,7 +1158,7 @@
     "music_disc.nautilus": {
         "sounds": [
             {
-                "name": "records/wave8/nautilus",
+                "name": "records/wave6/nautilus",
                 "stream": true
             }
         ]
@@ -1166,7 +1166,7 @@
     "music_disc.spears": {
         "sounds": [
             {
-                "name": "records/wave8/spears",
+                "name": "records/wave6/spears",
                 "stream": true
             }
         ]
@@ -1174,7 +1174,7 @@
     "music_disc.the_copper_age": {
         "sounds": [
             {
-                "name": "records/wave8/the_copper_age",
+                "name": "records/wave6/the_copper_age",
                 "stream": true
             }
         ]
@@ -1182,7 +1182,7 @@
     "music_disc.wondrous_workshop": {
         "sounds": [
             {
-                "name": "records/wave8/wondrous_workshop",
+                "name": "records/wave6/wondrous_workshop",
                 "stream": true
             }
         ]
@@ -1190,7 +1190,7 @@
     "music_disc.dont_mine_at_night": {
         "sounds": [
             {
-                "name": "records/wave9/dont_mine_at_night",
+                "name": "records/wave7/dont_mine_at_night",
                 "stream": true
             }
         ]
@@ -1198,7 +1198,7 @@
     "music_disc.dragonhearted": {
         "sounds": [
             {
-                "name": "records/wave9/dragonhearted",
+                "name": "records/wave7/dragonhearted",
                 "stream": true
             }
         ]
@@ -1206,7 +1206,7 @@
     "music_disc.find_the_pieces": {
         "sounds": [
             {
-                "name": "records/wave9/find_the_pieces",
+                "name": "records/wave7/find_the_pieces",
                 "stream": true
             }
         ]
@@ -1214,7 +1214,7 @@
     "music_disc.rising_kingdom": {
         "sounds": [
             {
-                "name": "records/wave9/rising_kingdom",
+                "name": "records/wave7/rising_kingdom",
                 "stream": true
             }
         ]
@@ -1222,7 +1222,7 @@
     "music_disc.take_back_the_night": {
         "sounds": [
             {
-                "name": "records/wave9/take_back_the_night",
+                "name": "records/wave7/take_back_the_night",
                 "stream": true
             }
         ]
@@ -1230,7 +1230,7 @@
     "music_disc.you_can_find_it": {
         "sounds": [
             {
-                "name": "records/wave9/you_can_find_it",
+                "name": "records/wave7/you_can_find_it",
                 "stream": true
             }
         ]
@@ -1238,7 +1238,7 @@
     "music_disc.departure": {
         "sounds": [
             {
-                "name": "records/wave9/departure",
+                "name": "records/wave7/departure",
                 "stream": true
             }
         ]
@@ -1246,7 +1246,7 @@
     "music_disc.level_1": {
         "sounds": [
             {
-                "name": "records/wave9/level_1",
+                "name": "records/wave7/level_1",
                 "stream": true
             }
         ]
@@ -1254,7 +1254,7 @@
     "music_disc.level_2": {
         "sounds": [
             {
-                "name": "records/wave9/level_2",
+                "name": "records/wave7/level_2",
                 "stream": true
             }
         ]
@@ -1262,7 +1262,7 @@
     "music_disc.level_3": {
         "sounds": [
             {
-                "name": "records/wave9/level_3",
+                "name": "records/wave7/level_3",
                 "stream": true
             }
         ]
@@ -1270,7 +1270,7 @@
     "music_disc.pokemon_battle_frontier": {
         "sounds": [
             {
-                "name": "records/wave9/pokemon_battle_frontier",
+                "name": "records/wave7/pokemon_battle_frontier",
                 "stream": true
             }
         ]
@@ -1278,7 +1278,7 @@
     "music_disc.pokemon_be_a_hero": {
         "sounds": [
             {
-                "name": "records/wave9/pokemon_be_a_hero",
+                "name": "records/wave7/pokemon_be_a_hero",
                 "stream": true
             }
         ]
@@ -1286,7 +1286,7 @@
     "music_disc.pokemon_black_and_white_theme": {
         "sounds": [
             {
-                "name": "records/wave9/pokemon_black_and_white_theme",
+                "name": "records/wave7/pokemon_black_and_white_theme",
                 "stream": true
             }
         ]
@@ -1294,7 +1294,7 @@
     "music_disc.pokemon_dpp_trainer_battle": {
         "sounds": [
             {
-                "name": "records/wave9/pokemon_dpp_trainer_battle",
+                "name": "records/wave7/pokemon_dpp_trainer_battle",
                 "stream": true
             }
         ]
@@ -1302,7 +1302,7 @@
     "music_disc.pokemon_theme_song": {
         "sounds": [
             {
-                "name": "records/wave9/pokemon_theme_song",
+                "name": "records/wave7/pokemon_theme_song",
                 "stream": true
             }
         ]
@@ -1310,7 +1310,7 @@
     "music_disc.the_cruel_angels_thesis": {
         "sounds": [
             {
-                "name": "records/wave9/the_cruel_angels_thesis",
+                "name": "records/wave7/the_cruel_angels_thesis",
                 "stream": true
             }
         ]
@@ -1318,7 +1318,7 @@
     "music_disc.deltarune.a_dark_zone": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/a_dark_zone",
+                "name": "records/wave7/deltarune/a_dark_zone",
                 "stream": true
             }
         ]
@@ -1326,7 +1326,7 @@
     "music_disc.deltarune.black_knife": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/black_knife",
+                "name": "records/wave7/deltarune/black_knife",
                 "stream": true
             }
         ]
@@ -1334,7 +1334,7 @@
     "music_disc.deltarune.dark_sanctuary": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/dark_sanctuary",
+                "name": "records/wave7/deltarune/dark_sanctuary",
                 "stream": true
             }
         ]
@@ -1342,7 +1342,7 @@
     "music_disc.deltarune.from_now_on": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/from_now_on",
+                "name": "records/wave7/deltarune/from_now_on",
                 "stream": true
             }
         ]
@@ -1350,7 +1350,7 @@
     "music_disc.deltarune.glaceir": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/glaceir",
+                "name": "records/wave7/deltarune/glaceir",
                 "stream": true
             }
         ]
@@ -1358,7 +1358,7 @@
     "music_disc.deltarune.guardian": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/guardian",
+                "name": "records/wave7/deltarune/guardian",
                 "stream": true
             }
         ]
@@ -1366,7 +1366,7 @@
     "music_disc.deltarune.hammer_of_justice": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/hammer_of_justice",
+                "name": "records/wave7/deltarune/hammer_of_justice",
                 "stream": true
             }
         ]
@@ -1374,7 +1374,7 @@
     "music_disc.deltarune.its_tv_time": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/its_tv_time",
+                "name": "records/wave7/deltarune/its_tv_time",
                 "stream": true
             }
         ]
@@ -1382,7 +1382,7 @@
     "music_disc.deltarune.neverending_night": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/neverending_night",
+                "name": "records/wave7/deltarune/neverending_night",
                 "stream": true
             }
         ]
@@ -1390,7 +1390,7 @@
     "music_disc.deltarune.raise_up_your_bat": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/raise_up_your_bat",
+                "name": "records/wave7/deltarune/raise_up_your_bat",
                 "stream": true
             }
         ]
@@ -1398,7 +1398,7 @@
     "music_disc.deltarune.ruder_buster": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/ruder_buster",
+                "name": "records/wave7/deltarune/ruder_buster",
                 "stream": true
             }
         ]
@@ -1406,7 +1406,7 @@
     "music_disc.deltarune.the_second_sanctuary": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/the_second_sanctuary",
+                "name": "records/wave7/deltarune/the_second_sanctuary",
                 "stream": true
             }
         ]
@@ -1414,7 +1414,7 @@
     "music_disc.deltarune.the_third_sanctuary": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/the_third_sanctuary",
+                "name": "records/wave7/deltarune/the_third_sanctuary",
                 "stream": true
             }
         ]
@@ -1422,7 +1422,7 @@
     "music_disc.deltarune.tv_world": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/tv_world",
+                "name": "records/wave7/deltarune/tv_world",
                 "stream": true
             }
         ]
@@ -1430,7 +1430,7 @@
     "music_disc.deltarune.welcome_to_the_green_room": {
         "sounds": [
             {
-                "name": "records/wave9/deltarune/welcome_to_the_green_room",
+                "name": "records/wave7/deltarune/welcome_to_the_green_room",
                 "stream": true
             }
         ]
@@ -1438,82 +1438,82 @@
     "music.menu": {
         "sounds": [
             {
-                "name": "records/wave9/pokemon_theme_song",
+                "name": "records/wave7/pokemon_theme_song",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/the_cruel_angels_thesis",
+                "name": "records/wave7/the_cruel_angels_thesis",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/pokemon_be_a_hero",
+                "name": "records/wave7/pokemon_be_a_hero",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/pokemon_be_a_hero",
+                "name": "records/wave7/pokemon_be_a_hero",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/pokemon_black_and_white_theme",
+                "name": "records/wave7/pokemon_black_and_white_theme",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/pokemon_dpp_trainer_battle",
+                "name": "records/wave7/pokemon_dpp_trainer_battle",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/level_3",
+                "name": "records/wave7/level_3",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/departure",
+                "name": "records/wave7/departure",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/deltarune/tv_world",
+                "name": "records/wave7/deltarune/tv_world",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/deltarune/black_knife",
+                "name": "records/wave7/deltarune/black_knife",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/deltarune/from_now_on",
+                "name": "records/wave7/deltarune/from_now_on",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/deltarune/glaceir",
+                "name": "records/wave7/deltarune/glaceir",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave9/deltarune/the_second_sanctuary",
+                "name": "records/wave7/deltarune/the_second_sanctuary",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave6/undertale/006_uwa_so_temperate",
+                "name": "records/wave5/undertale/006_uwa_so_temperate",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave6/undertale/001_once_upon_a_time",
+                "name": "records/wave5/undertale/001_once_upon_a_time",
                 "stream": true,
                 "volume": 0.4
             },
             {
-                "name": "records/wave6/undertale/010_ghost_fight",
+                "name": "records/wave5/undertale/010_ghost_fight",
                 "stream": true,
                 "volume": 0.4
             }

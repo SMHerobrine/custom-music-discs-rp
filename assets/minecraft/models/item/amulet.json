@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/wave9/you_can_find_it"
+    "layer0": "minecraft:item/wave7/you_can_find_it"
   }
 }

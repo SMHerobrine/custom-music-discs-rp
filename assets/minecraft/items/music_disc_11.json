@@ -242,1015 +242,1015 @@
                 "when": "dan_gingerbread_dan",
                 "model": {
                     "type": "model",
-                    "model": "item/wave3/dan_gingerbread_dan"
+                    "model": "item/wave2/dan_gingerbread_dan"
                 }
             },
             {
                 "when": "dan_monster",
                 "model": {
                     "type": "model",
-                    "model": "item/wave3/dan_monster"
+                    "model": "item/wave2/dan_monster"
                 }
             },
             {
                 "when": "dan_im_dead",
                 "model": {
                     "type": "model",
-                    "model": "item/wave3/dan_im_dead"
+                    "model": "item/wave2/dan_im_dead"
                 }
             },
             {
                 "when": "dan_happening",
                 "model": {
                     "type": "model",
-                    "model": "item/wave3/dan_happening"
+                    "model": "item/wave2/dan_happening"
                 }
             },
             {
                 "when": "dan_smashing_it",
                 "model": {
                     "type": "model",
-                    "model": "item/wave3/dan_smashing_it"
+                    "model": "item/wave2/dan_smashing_it"
                 }
             },
             {
                 "when": "dan_dab_lasagna",
                 "model": {
                     "type": "model",
-                    "model": "item/wave3/dan_dab_lasagna"
+                    "model": "item/wave2/dan_dab_lasagna"
                 }
             },
             {
                 "when": "bitch_lasagna",
                 "model": {
                     "type": "model",
-                    "model": "item/wave3/bitch_lasagna"
+                    "model": "item/wave2/bitch_lasagna"
                 }
             },
             {
                 "when": "congratulations",
                 "model": {
                     "type": "model",
-                    "model": "item/wave3/congratulations"
+                    "model": "item/wave2/congratulations"
                 }
             },
             {
                 "when": "mario_in_the_final",
                 "model": {
                     "type": "model",
-                    "model": "item/wave3/mario_in_the_final"
+                    "model": "item/wave2/mario_in_the_final"
                 }
             },
             {
                 "when": "never_gonna_give_you_up",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/never_gonna_give_you_up"
+                    "model": "item/wave3/never_gonna_give_you_up"
                 }
             },
             {
                 "when": "revenge_acapella",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/revenge_acapella"
+                    "model": "item/wave3/revenge_acapella"
                 }
             },
             {
                 "when": "mice_on_venus_acapella",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mice_on_venus_acapella"
+                    "model": "item/wave3/mice_on_venus_acapella"
                 }
             },
             {
-                "when": "wave4_sweden_acapella",
+                "when": "wave3_sweden_acapella",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/wave4_sweden_acapella"
+                    "model": "item/wave3/wave3_sweden_acapella"
                 }
             },
             {
                 "when": "subwoofer_lullaby_orchestra",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/subwoofer_lullaby_orchestra"
+                    "model": "item/wave3/subwoofer_lullaby_orchestra"
                 }
             },
             {
                 "when": "sweden_hans_zimmer",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/sweden_hans_zimmer"
+                    "model": "item/wave3/sweden_hans_zimmer"
                 }
             },
             {
                 "when": "mice_on_venus_sad_film_score",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mice_on_venus_sad_film_score"
+                    "model": "item/wave3/mice_on_venus_sad_film_score"
                 }
             },
             {
                 "when": "aria_math_epic_soundtrack",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/aria_math_epic_soundtrack"
+                    "model": "item/wave3/aria_math_epic_soundtrack"
                 }
             },
             {
                 "when": "wet_hands_uplifting_adventurous_soundtrack",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/wet_hands_uplifting_adventurous_soundtrack"
+                    "model": "item/wave3/wet_hands_uplifting_adventurous_soundtrack"
                 }
             },
             {
                 "when": "mcsoundtrack_anime_opening_song",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcsoundtrack_anime_opening_song"
+                    "model": "item/wave3/mcsoundtrack_anime_opening_song"
                 }
             },
             {
                 "when": "living_mice_synthwave",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/living_mice_synthwave"
+                    "model": "item/wave3/living_mice_synthwave"
                 }
             },
             {
                 "when": "sweden_lofi_hiphop_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/sweden_lofi_hiphop_remix"
+                    "model": "item/wave3/sweden_lofi_hiphop_remix"
                 }
             },
             {
                 "when": "haggstrom_john_williams",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/haggstrom_john_williams"
+                    "model": "item/wave3/haggstrom_john_williams"
                 }
             },
             {
                 "when": "moog_city_orchestral_synthwave_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/moog_city_orchestral_synthwave_remix"
+                    "model": "item/wave3/moog_city_orchestral_synthwave_remix"
                 }
             },
             {
                 "when": "danny_disney_movie_soundtrack",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/danny_disney_movie_soundtrack"
+                    "model": "item/wave3/danny_disney_movie_soundtrack"
                 }
             },
             {
                 "when": "dry_hands_funky_synthwave",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/dry_hands_funky_synthwave"
+                    "model": "item/wave3/dry_hands_funky_synthwave"
                 }
             },
             {
                 "when": "sweden_hans_zimmer_slowed_reverb",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/sweden_hans_zimmer_slowed_reverb"
+                    "model": "item/wave3/sweden_hans_zimmer_slowed_reverb"
                 }
             },
             {
                 "when": "aria_math_synthwave",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/aria_math_synthwave"
+                    "model": "item/wave3/aria_math_synthwave"
                 }
             },
             {
                 "when": "pigstep_epic_orchestral_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/pigstep_epic_orchestral_remix"
+                    "model": "item/wave3/pigstep_epic_orchestral_remix"
                 }
             },
             {
                 "when": "c418_legacy",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/c418_legacy"
+                    "model": "item/wave3/c418_legacy"
                 }
             },
             {
                 "when": "mcrap_boom_boom_boom",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_boom_boom_boom"
+                    "model": "item/wave3/mcrap_boom_boom_boom"
                 }
             },
             {
                 "when": "mcrap_quiet_please",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_quiet_please"
+                    "model": "item/wave3/mcrap_quiet_please"
                 }
             },
             {
                 "when": "mcrap_bull_is_the_spider",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_bull_is_the_spider"
+                    "model": "item/wave3/mcrap_bull_is_the_spider"
                 }
             },
             {
                 "when": "mcrap_pigman",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_pigman"
+                    "model": "item/wave3/mcrap_pigman"
                 }
             },
             {
                 "when": "mcrap_the_ballad_of_bob_the_snow_golem",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_the_ballad_of_bob_the_snow_golem"
+                    "model": "item/wave3/mcrap_the_ballad_of_bob_the_snow_golem"
                 }
             },
             {
                 "when": "mcrap_creeper_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_creeper_remix"
+                    "model": "item/wave3/mcrap_creeper_remix"
                 }
             },
             {
                 "when": "mcrap_dont_mess_with_the_endermen",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_dont_mess_with_the_endermen"
+                    "model": "item/wave3/mcrap_dont_mess_with_the_endermen"
                 }
             },
             {
                 "when": "mcrap_ive_got_a_bone",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_ive_got_a_bone"
+                    "model": "item/wave3/mcrap_ive_got_a_bone"
                 }
             },
             {
                 "when": "mcrap_im_a_zombie",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_im_a_zombie"
+                    "model": "item/wave3/mcrap_im_a_zombie"
                 }
             },
             {
                 "when": "mcrap_the_arch_illager",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_the_arch_illager"
+                    "model": "item/wave3/mcrap_the_arch_illager"
                 }
             },
             {
                 "when": "mcrap_the_last_guardian",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_the_last_guardian"
+                    "model": "item/wave3/mcrap_the_last_guardian"
                 }
             },
             {
                 "when": "mcrap_busy_buzzy_bees",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_busy_buzzy_bees"
+                    "model": "item/wave3/mcrap_busy_buzzy_bees"
                 }
             },
             {
                 "when": "mcrap_skeleton_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_skeleton_remix"
+                    "model": "item/wave3/mcrap_skeleton_remix"
                 }
             },
             {
                 "when": "mcrap_rap_battle",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_rap_battle"
+                    "model": "item/wave3/mcrap_rap_battle"
                 }
             },
             {
                 "when": "mcrap_just_another_day",
                 "model": {
                     "type": "model",
-                    "model": "item/wave4/mcrap_just_another_day"
+                    "model": "item/wave3/mcrap_just_another_day"
                 }
             },
             {
                 "when": "cg5_sweden",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/cg5_sweden"
+                    "model": "item/wave4/cg5_sweden"
                 }
             },
             {
                 "when": "hardcore_disc",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/hardcore_disc"
+                    "model": "item/wave4/hardcore_disc"
                 }
             },
             {
                 "when": "sweet_dreams",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/sweet_dreams"
+                    "model": "item/wave4/sweet_dreams"
                 }
             },
             {
                 "when": "mclofi_relic_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_relic_remix"
+                    "model": "item/wave4/mclofi_relic_remix"
                 }
             },
             {
                 "when": "mclofi_crescent_dunes",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_crescent_dunes"
+                    "model": "item/wave4/mclofi_crescent_dunes"
                 }
             },
             {
                 "when": "mclofi_bromeliad",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_bromeliad"
+                    "model": "item/wave4/mclofi_bromeliad"
                 }
             },
             {
                 "when": "mclofi_a_familiar_room",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_a_familiar_room"
+                    "model": "item/wave4/mclofi_a_familiar_room"
                 }
             },
             {
                 "when": "mclofi_echo_in_the_wind",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_echo_in_the_wind"
+                    "model": "item/wave4/mclofi_echo_in_the_wind"
                 }
             },
             {
                 "when": "mclofi_broken_heart_of_ender",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_broken_heart_of_ender"
+                    "model": "item/wave4/mclofi_broken_heart_of_ender"
                 }
             },
             {
                 "when": "mclofi_coral_rise",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_coral_rise"
+                    "model": "item/wave4/mclofi_coral_rise"
                 }
             },
             {
                 "when": "mclofi_crimson_forest",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_crimson_forest"
+                    "model": "item/wave4/mclofi_crimson_forest"
                 }
             },
             {
                 "when": "mclofi_dalarna1",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_dalarna1"
+                    "model": "item/wave4/mclofi_dalarna1"
                 }
             },
             {
                 "when": "mclofi_dalarna2",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_dalarna2"
+                    "model": "item/wave4/mclofi_dalarna2"
                 }
             },
             {
                 "when": "mclofi_desert_temple",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_desert_temple"
+                    "model": "item/wave4/mclofi_desert_temple"
                 }
             },
             {
                 "when": "mclofi_evoker",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_evoker"
+                    "model": "item/wave4/mclofi_evoker"
                 }
             },
             {
                 "when": "mclofi_ghast",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_ghast"
+                    "model": "item/wave4/mclofi_ghast"
                 }
             },
             {
                 "when": "mclofi_halland",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_halland"
+                    "model": "item/wave4/mclofi_halland"
                 }
             },
             {
                 "when": "mclofi_mooshroom_island",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_mooshroom_island"
+                    "model": "item/wave4/mclofi_mooshroom_island"
                 }
             },
             {
                 "when": "mclofi_the_arch_illager",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_the_arch_illager"
+                    "model": "item/wave4/mclofi_the_arch_illager"
                 }
             },
             {
                 "when": "mclofi_the_well_of_fate",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_the_well_of_fate"
+                    "model": "item/wave4/mclofi_the_well_of_fate"
                 }
             },
             {
                 "when": "mclofi_new_worlds_new_adventures",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_new_worlds_new_adventures"
+                    "model": "item/wave4/mclofi_new_worlds_new_adventures"
                 }
             },
             {
                 "when": "mclofi_the_coming_war",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_the_coming_war"
+                    "model": "item/wave4/mclofi_the_coming_war"
                 }
             },
             {
                 "when": "mclofi_a_day_long_awaited",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_a_day_long_awaited"
+                    "model": "item/wave4/mclofi_a_day_long_awaited"
                 }
             },
             {
                 "when": "mclofi_the_green_expanse",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_the_green_expanse"
+                    "model": "item/wave4/mclofi_the_green_expanse"
                 }
             },
             {
                 "when": "mclofi_blue_ice_white_snow",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_blue_ice_white_snow"
+                    "model": "item/wave4/mclofi_blue_ice_white_snow"
                 }
             },
             {
                 "when": "mclofi_alone_with_the_sky",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_alone_with_the_sky"
+                    "model": "item/wave4/mclofi_alone_with_the_sky"
                 }
             },
             {
                 "when": "mclofi_a_time_of_legends",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_a_time_of_legends"
+                    "model": "item/wave4/mclofi_a_time_of_legends"
                 }
             },
             {
                 "when": "mclofi_lute_skit",
                 "model": {
                     "type": "model",
-                    "model": "item/wave5/mclofi_lute_skit"
+                    "model": "item/wave4/mclofi_lute_skit"
                 }
             },
             {
                 "when": "minecraft_shape_your_world",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/minecraft_shape_your_world"
+                    "model": "item/wave5/minecraft_shape_your_world"
                 }
             },
             {
                 "when": "thefatrat_fly_away",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/thefatrat_fly_away"
+                    "model": "item/wave5/thefatrat_fly_away"
                 }
             },
             {
                 "when": "thefatrat_sail_away",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/thefatrat_sail_away"
+                    "model": "item/wave5/thefatrat_sail_away"
                 }
             },
             {
                 "when": "undertale_once_upon_a_time",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_once_upon_a_time"
+                    "model": "item/wave5/undertale_once_upon_a_time"
                 }
             },
             {
                 "when": "undertale_fallen_down",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_fallen_down"
+                    "model": "item/wave5/undertale_fallen_down"
                 }
             },
             {
                 "when": "undertale_ruins",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_ruins"
+                    "model": "item/wave5/undertale_ruins"
                 }
             },
             {
                 "when": "undertale_uwa_so_temperate",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_uwa_so_temperate"
+                    "model": "item/wave5/undertale_uwa_so_temperate"
                 }
             },
             {
                 "when": "undertale_enemy_approaching",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_enemy_approaching"
+                    "model": "item/wave5/undertale_enemy_approaching"
                 }
             },
             {
                 "when": "undertale_ghost_fight",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_ghost_fight"
+                    "model": "item/wave5/undertale_ghost_fight"
                 }
             },
             {
                 "when": "undertale_determination",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_determination"
+                    "model": "item/wave5/undertale_determination"
                 }
             },
             {
                 "when": "undertale_home",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_home"
+                    "model": "item/wave5/undertale_home"
                 }
             },
             {
                 "when": "undertale_home_music_box",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_home_music_box"
+                    "model": "item/wave5/undertale_home_music_box"
                 }
             },
             {
                 "when": "undertale_heartache",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_heartache"
+                    "model": "item/wave5/undertale_heartache"
                 }
             },
             {
                 "when": "undertale_sans",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_sans"
+                    "model": "item/wave5/undertale_sans"
                 }
             },
             {
                 "when": "undertale_snowy",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_snowy"
+                    "model": "item/wave5/undertale_snowy"
                 }
             },
             {
                 "when": "undertale_dogsong",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/undertale_dogsong"
+                    "model": "item/wave5/undertale_dogsong"
                 }
             },
             {
                 "when": "happy_birthday",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/happy_birthday"
+                    "model": "item/wave5/happy_birthday"
                 }
             },
             {
                 "when": "soothing_farm",
                 "model": {
                     "type": "model",
-                    "model": "item/wave6/soothing_farm"
+                    "model": "item/wave5/soothing_farm"
                 }
             },
             {
                 "when": "thefatrat_mayday",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/thefatrat_mayday"
+                    "model": "item/wave6/thefatrat_mayday"
                 }
             },
             {
                 "when": "makrani_dhun",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/makrani_dhun"
+                    "model": "item/wave6/makrani_dhun"
                 }
             },
             {
                 "when": "forrest_frank_your_ways_better",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/forrest_frank_your_ways_better"
+                    "model": "item/wave6/forrest_frank_your_ways_better"
                 }
             },
             {
                 "when": "villager_lullaby",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/villager_lullaby"
+                    "model": "item/wave6/villager_lullaby"
                 }
             },
             {
                 "when": "creator_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/creator_pixel_remix"
+                    "model": "item/wave6/creator_pixel_remix"
                 }
             },
             {
                 "when": "deeper_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/deeper_pixel_remix"
+                    "model": "item/wave6/deeper_pixel_remix"
                 }
             },
             {
                 "when": "eld_unknown_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/eld_unknown_pixel_remix"
+                    "model": "item/wave6/eld_unknown_pixel_remix"
                 }
             },
             {
                 "when": "endless_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/endless_pixel_remix"
+                    "model": "item/wave6/endless_pixel_remix"
                 }
             },
             {
                 "when": "featherfall_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/featherfall_pixel_remix"
+                    "model": "item/wave6/featherfall_pixel_remix"
                 }
             },
             {
                 "when": "infinite_amethyst_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/infinite_amethyst_pixel_remix"
+                    "model": "item/wave6/infinite_amethyst_pixel_remix"
                 }
             },
             {
                 "when": "komorebi_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/komorebi_pixel_remix"
+                    "model": "item/wave6/komorebi_pixel_remix"
                 }
             },
             {
                 "when": "pokopoko_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/pokopoko_pixel_remix"
+                    "model": "item/wave6/pokopoko_pixel_remix"
                 }
             },
             {
                 "when": "precipice_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/precipice_pixel_remix"
+                    "model": "item/wave6/precipice_pixel_remix"
                 }
             },
             {
                 "when": "puzzlebox_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/puzzlebox_pixel_remix"
+                    "model": "item/wave6/puzzlebox_pixel_remix"
                 }
             },
             {
                 "when": "watcher_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/watcher_pixel_remix"
+                    "model": "item/wave6/watcher_pixel_remix"
                 }
             },
             {
                 "when": "yakusoku_pixel_remix",
                 "model": {
                     "type": "model",
-                    "model": "item/wave7/yakusoku_pixel_remix"
+                    "model": "item/wave6/yakusoku_pixel_remix"
                 }
             },
             {
                 "when": "copper_golem",
                 "model": {
                     "type": "model",
-                    "model": "item/wave8/copper_golem"
+                    "model": "item/wave6/copper_golem"
                 }
             },
             {
                 "when": "infinite_spooky_amethyst",
                 "model": {
                     "type": "model",
-                    "model": "item/wave8/infinite_spooky_amethyst"
+                    "model": "item/wave6/infinite_spooky_amethyst"
                 }
             },
             {
                 "when": "crafters_candy_canes",
                 "model": {
                     "type": "model",
-                    "model": "item/wave8/crafters_candy_canes"
+                    "model": "item/wave6/crafters_candy_canes"
                 }
             },
             {
                 "when": "giftwrapped",
                 "model": {
                     "type": "model",
-                    "model": "item/wave8/giftwrapped"
+                    "model": "item/wave6/giftwrapped"
                 }
             },
             {
                 "when": "happy_ghast",
                 "model": {
                     "type": "model",
-                    "model": "item/wave8/happy_ghast"
+                    "model": "item/wave6/happy_ghast"
                 }
             },
             {
                 "when": "nautilus",
                 "model": {
                     "type": "model",
-                    "model": "item/wave8/nautilus"
+                    "model": "item/wave6/nautilus"
                 }
             },
             {
                 "when": "spears",
                 "model": {
                     "type": "model",
-                    "model": "item/wave8/spears"
+                    "model": "item/wave6/spears"
                 }
             },
             {
                 "when": "the_copper_age",
                 "model": {
                     "type": "model",
-                    "model": "item/wave8/the_copper_age"
+                    "model": "item/wave6/the_copper_age"
                 }
             },
             {
                 "when": "wondrous_workshop",
                 "model": {
                     "type": "model",
-                    "model": "item/wave8/wondrous_workshop"
+                    "model": "item/wave6/wondrous_workshop"
                 }
             },
             {
                 "when": "dont_mine_at_night",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/dont_mine_at_night"
+                    "model": "item/wave7/dont_mine_at_night"
                 }
             },
             {
                 "when": "dragonhearted",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/dragonhearted"
+                    "model": "item/wave7/dragonhearted"
                 }
             },
             {
                 "when": "find_the_pieces",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/find_the_pieces"
+                    "model": "item/wave7/find_the_pieces"
                 }
             },
             {
                 "when": "rising_kingdom",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/rising_kingdom"
+                    "model": "item/wave7/rising_kingdom"
                 }
             },
             {
                 "when": "take_back_the_night",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/take_back_the_night"
+                    "model": "item/wave7/take_back_the_night"
                 }
             },
             {
                 "when": "cruel_angels_thesis",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/cruel_angels_thesis"
+                    "model": "item/wave7/cruel_angels_thesis"
                 }
             },
             {
                 "when": "departure",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/departure"
+                    "model": "item/wave7/departure"
                 }
             },
             {
                 "when": "level_1",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/level_1"
+                    "model": "item/wave7/level_1"
                 }
             },
             {
                 "when": "level_2",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/level_2"
+                    "model": "item/wave7/level_2"
                 }
             },
             {
                 "when": "level_3",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/level_3"
+                    "model": "item/wave7/level_3"
                 }
             },
             {
                 "when": "deltarune_a_dark_zone",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_a_dark_zone"
+                    "model": "item/wave7/deltarune_a_dark_zone"
                 }
             },
             {
                 "when": "deltarune_black_knife",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_black_knife"
+                    "model": "item/wave7/deltarune_black_knife"
                 }
             },
             {
                 "when": "deltarune_dark_sanctuary",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_dark_sanctuary"
+                    "model": "item/wave7/deltarune_dark_sanctuary"
                 }
             },
             {
                 "when": "deltarune_from_now_on",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_from_now_on"
+                    "model": "item/wave7/deltarune_from_now_on"
                 }
             },
             {
                 "when": "deltarune_glaceir",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_glaceir"
+                    "model": "item/wave7/deltarune_glaceir"
                 }
             },
             {
                 "when": "deltarune_guardian",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_guardian"
+                    "model": "item/wave7/deltarune_guardian"
                 }
             },
             {
                 "when": "deltarune_hammer_of_justice",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_hammer_of_justice"
+                    "model": "item/wave7/deltarune_hammer_of_justice"
                 }
             },
             {
                 "when": "deltarune_its_tv_time",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_its_tv_time"
+                    "model": "item/wave7/deltarune_its_tv_time"
                 }
             },
             {
                 "when": "deltarune_neverending_night",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_neverending_night"
+                    "model": "item/wave7/deltarune_neverending_night"
                 }
             },
             {
                 "when": "deltarune_raise_up_your_bat",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_raise_up_your_bat"
+                    "model": "item/wave7/deltarune_raise_up_your_bat"
                 }
             },
             {
                 "when": "deltarune_ruder_buster",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_ruder_buster"
+                    "model": "item/wave7/deltarune_ruder_buster"
                 }
             },
             {
                 "when": "deltarune_the_second_sanctuary",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_the_second_sanctuary"
+                    "model": "item/wave7/deltarune_the_second_sanctuary"
                 }
             },
             {
                 "when": "deltarune_the_third_sanctuary",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_the_third_sanctuary"
+                    "model": "item/wave7/deltarune_the_third_sanctuary"
                 }
             },
             {
                 "when": "deltarune_tv_world",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_tv_world"
+                    "model": "item/wave7/deltarune_tv_world"
                 }
             },
             {
                 "when": "deltarune_welcome_to_the_green_room",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/deltarune_welcome_to_the_green_room"
+                    "model": "item/wave7/deltarune_welcome_to_the_green_room"
                 }
             },
             {
                 "when": "pokemon_theme_song",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/pokemon_theme_song"
+                    "model": "item/wave7/pokemon_theme_song"
                 }
             },
             {
                 "when": "pokemon_battle_frontier",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/pokemon_battle_frontier"
+                    "model": "item/wave7/pokemon_battle_frontier"
                 }
             },
             {
                 "when": "pokemon_be_a_hero",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/pokemon_be_a_hero"
+                    "model": "item/wave7/pokemon_be_a_hero"
                 }
             },
             {
                 "when": "pokemon_black_and_white_theme",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/pokemon_black_and_white_theme"
+                    "model": "item/wave7/pokemon_black_and_white_theme"
                 }
             },
             {
                 "when": "pokemon_dpp_trainer_battle",
                 "model": {
                     "type": "model",
-                    "model": "item/wave9/pokemon_dpp_trainer_battle"
+                    "model": "item/wave7/pokemon_dpp_trainer_battle"
                 }
             }
         ]
