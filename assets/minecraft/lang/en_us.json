@@ -26,12 +26,10 @@
   "jukebox_song.wave1.soothing.falling_snow": "Soothing Minecraft - Falling Snow",
   "jukebox_song.wave1.soothing.serene_snow": "Soothing Minecraft - Serene Snow",
 
-  "jukebox_song.cmd.subwoofer_acapella": "Smooth-McGroove - Subwoofer Lullaby Acapella",
-  "jukebox_song.cmd.sweden_acapella": "Smooth-McGroove - Sweden (Calm 3) Acapella",
-  "jukebox_song.cmd.wethands_acapella": "Smooth-McGroove - Wet Hands Acapella",
+  "jukebox_song.wave1.subwoofer_acapella": "Smooth-McGroove - Subwoofer Lullaby Acapella",
+  "jukebox_song.wave1.sweden_acapella": "Smooth-McGroove - Sweden (Calm 3) Acapella",
+  "jukebox_song.wave1.wethands_acapella": "Smooth-McGroove - Wet Hands Acapella",
   
-
-
   "records.wave1.revenge": "CaptainSparklez & TryHardNinja - Revenge",
   "records.wave1.fallen_kingdom": "CaptainSparklez & TryHardNinja - Fallen Kingdom",
   "records.wave1.tnt": "CaptainSparklez & TryHardNinja - TNT",
@@ -61,8 +59,6 @@
   "jukebox_song.wave2.dan_song": "DanTDM - Mirror, Sailboat",
   "jukebox_song.wave2.dan_intro": "Ertyez - The Red one has been chosen",
   "jukebox_song.wave2.dan_intro2": "Ertyez - Let's see what Happens",
-  
-
 
   "records.wave2.offpeppersteak": "Alias Conrad Coldwood - OFF Pepper Steak",
   "records.wave2.dan_nether": "DanTDM - Never Ever Going to the Nether",
@@ -71,10 +67,16 @@
   "records.wave2.dan_song": "DanTDM - Mirror, Sailboat",
   "records.wave2.dan_intro": "Ertyez - The Red one has been chosen",
   "records.wave2.dan_intro2": "Ertyez - Let's see what Happens",
-  
-  
-  "cmd.dialog.wave3": "Wave 3",
-  
+
+  "records.wave2.dan_gingerbread_dan": "Endigo - I'M GINGERBREAD DAN! (DanTDM Remix)",
+  "records.wave2.dan_monster": "Endigo - THE MONSTER INSIDE (DanTDM Remix)",
+  "records.wave2.dan_im_dead": "Endigo - I'M DEAD!, I'M DEAD! (DanTDM Remix)",
+  "records.wave2.dan_happening": "Endigo - IT'S HAPPENING! (DanTDM Remix)",
+  "records.wave2.dan_smashing_it": "Endigo - SMASHING IT! (DanTDM Remix)",
+  "records.wave2.dan_dab_lasagna": "Sam Dubs ft. DanTDM - Dab Lasagna (Dab Police Theme)",
+  "records.wave2.bitch_lasagna": "PewDiePie - bitch lasagna",
+  "records.wave2.congratulations": "PewDiePie - Congratulations",
+  "records.wave2.mario_in_the_final": "In The Final - From Mario & Luigi: Bowser's Inside Story",
 
   "jukebox_song.wave2.dan_gingerbread_dan": "Endigo - I'M GINGERBREAD DAN! (DanTDM Remix)",
   "jukebox_song.wave2.dan_monster": "Endigo - THE MONSTER INSIDE (DanTDM Remix)",
@@ -87,19 +89,7 @@
   "jukebox_song.wave2.mario_in_the_final": "In The Final - From Mario & Luigi: Bowser's Inside Story",
   
 
-
-  "records.wave2.dan_gingerbread_dan": "Endigo - I'M GINGERBREAD DAN! (DanTDM Remix)",
-  "records.wave2.dan_monster": "Endigo - THE MONSTER INSIDE (DanTDM Remix)",
-  "records.wave2.dan_im_dead": "Endigo - I'M DEAD!, I'M DEAD! (DanTDM Remix)",
-  "records.wave2.dan_happening": "Endigo - IT'S HAPPENING! (DanTDM Remix)",
-  "records.wave2.dan_smashing_it": "Endigo - SMASHING IT! (DanTDM Remix)",
-  "records.wave2.dan_dab_lasagna": "Sam Dubs ft. DanTDM - Dab Lasagna (Dab Police Theme)",
-  "records.wave2.bitch_lasagna": "PewDiePie - bitch lasagna",
-  "records.wave2.congratulations": "PewDiePie - Congratulations",
-  "records.wave2.mario_in_the_final": "In The Final - From Mario & Luigi: Bowser's Inside Story",
-
-
-  "cmd.dialog.wave4": "Wave 4",
+  "cmd.dialog.wave3": "Wave 3",
 
 
   "jukebox_song.wave3.never_gonna_give_you_up": "Rick Astley - Never Gonna Give You Up",
@@ -123,8 +113,6 @@
   "jukebox_song.wave3.mcremixed.pigstep_epic_orchestral_remix": "Andreas Zoeller - Pigstep (Epic Orchestral Remix)",
   "jukebox_song.wave3.c418_legacy": "Andreas Zoeller - C418's Legacy",
 
-
-
   "records.wave3.never_gonna_give_you_up": "Rick Astley - Never Gonna Give You Up",
   "records.wave3.revenge_acapella": "Triforcefilms - Revenge Acapella",
   "records.wave3.mice_on_venus_acapella": "Triforcefilms - Mice on Venus Acapella",
@@ -146,25 +134,21 @@
   "records.wave3.pigstep_epic_orchestral_remix": "Andreas Zoeller - Pigstep (Epic Orchestral Remix)",
   "records.wave3.c418_legacy": "Andreas Zoeller - C418's Legacy",
   
-
-
-  "jukebox_song.wave4.mcrap.boom_boom_boom": "Dan Bull - BOOM, BOOM, BOOM",
-  "jukebox_song.wave4.mcrap.quiet_please": "Dan Bull - Quiet Please!",
-  "jukebox_song.wave4.mcrap.bull_is_the_spider": "Dan Bull - Bull Is The Spider",
-  "jukebox_song.wave4.mcrap.pigman": "Dan Bull - Pigman",
-  "jukebox_song.wave4.mcrap.the_ballad_of_bob_the_snow_golem": "Dan Bull - The Ballad of Bob The Snow Golem",
-  "jukebox_song.wave4.mcrap.creeper_remix": "Dan Bull - CREEPER RAP REMIX",
-  "jukebox_song.wave4.mcrap.dont_mess_with_the_endermen": "Dan Bull - Don't mess with the Endermen",
-  "jukebox_song.wave4.mcrap.ive_got_a_bone": "Dan Bull - I've Got A Bone",
-  "jukebox_song.wave4.mcrap.im_a_zombie": "Dan Bull - I'm A Zombie",
-  "jukebox_song.wave4.mcrap.the_arch_illager": "Dan Bull - The Arch-Illager",
-  "jukebox_song.wave4.mcrap.the_last_guardian": "Dan Bull ft. Miracle Of Sound- The Last Guardian",
-  "jukebox_song.wave4.mcrap.busy_buzzy_bees": "Dan Bull - Busy Buzzy Bees",
-  "jukebox_song.wave4.mcrap.skeleton_remix": "Dan Bull - SKELETON RAP REMIX",
-  "jukebox_song.wave4.mcrap.rap_battle": "Dan Bull ft. The Stupendium & ERB - MINECRAFT VS LEGO Rap Battle",
-  "jukebox_song.wave4.mcrap.just_another_day": "Dan Bull - Just Another Day",
-
-
+  "jukebox_song.wave3.mcrap.boom_boom_boom": "Dan Bull - BOOM, BOOM, BOOM",
+  "jukebox_song.wave3.mcrap.quiet_please": "Dan Bull - Quiet Please!",
+  "jukebox_song.wave3.mcrap.bull_is_the_spider": "Dan Bull - Bull Is The Spider",
+  "jukebox_song.wave3.mcrap.pigman": "Dan Bull - Pigman",
+  "jukebox_song.wave3.mcrap.the_ballad_of_bob_the_snow_golem": "Dan Bull - The Ballad of Bob The Snow Golem",
+  "jukebox_song.wave3.mcrap.creeper_remix": "Dan Bull - CREEPER RAP REMIX",
+  "jukebox_song.wave3.mcrap.dont_mess_with_the_endermen": "Dan Bull - Don't mess with the Endermen",
+  "jukebox_song.wave3.mcrap.ive_got_a_bone": "Dan Bull - I've Got A Bone",
+  "jukebox_song.wave3.mcrap.im_a_zombie": "Dan Bull - I'm A Zombie",
+  "jukebox_song.wave3.mcrap.the_arch_illager": "Dan Bull - The Arch-Illager",
+  "jukebox_song.wave3.mcrap.the_last_guardian": "Dan Bull ft. Miracle Of Sound- The Last Guardian",
+  "jukebox_song.wave3.mcrap.busy_buzzy_bees": "Dan Bull - Busy Buzzy Bees",
+  "jukebox_song.wave3.mcrap.skeleton_remix": "Dan Bull - SKELETON RAP REMIX",
+  "jukebox_song.wave3.mcrap.rap_battle": "Dan Bull ft. The Stupendium & ERB - MINECRAFT VS LEGO Rap Battle",
+  "jukebox_song.wave3.mcrap.just_another_day": "Dan Bull - Just Another Day",
 
   "records.wave3.mcrap_boom_boom_boom": "Dan Bull - BOOM, BOOM, BOOM",
   "records.wave3.mcrap_quiet_please": "Dan Bull - Quiet Please!",
@@ -183,123 +167,119 @@
   "records.wave3.mcrap_just_another_day": "Dan Bull - Just Another Day",
   
   
-  "cmd.dialog.wave5": "Wave 5",
+  "cmd.dialog.wave4": "Wave 4",
 
 
   "jukebox_song.wave4.cg5_sweden": "CG5 - Sweden (with Lyrics)",
   "jukebox_song.wave4.hardcore_disc": "K620 - Extreme Intensity",
   "jukebox_song.wave4.sweet_dreams": "Eurythmics - Sweet Dreams (Are Made Of This)",
   
-  "jukebox_song.wave5.mclofi.echo_in_the_wind": "Monolism - Echo In The Wind - LoFi Remix (Original: Aaron Cherof)",
-  "jukebox_song.wave5.mclofi.a_familiar_room": "Monolism - A Familiar Room - LoFi Remix (Original: Aaron Cherof)",
-  "jukebox_song.wave5.mclofi.bromeliad": "Monolism - Bromeliad - LoFi Remix (Original: Aaron Cherof)",
-  "jukebox_song.wave5.mclofi.crescent_dunes": "Monolism - Crescent Dunes - LoFi Remix (Original: Aaron Cherof)",
-  "jukebox_song.wave5.mclofi.relic_remix": "Monolism - Relic - LoFi Remix (Original: Aaron Cherof)",
+  "jukebox_song.wave4.mclofi.echo_in_the_wind": "Monolism - Echo In The Wind - LoFi Remix (Original: Aaron Cherof)",
+  "jukebox_song.wave4.mclofi.a_familiar_room": "Monolism - A Familiar Room - LoFi Remix (Original: Aaron Cherof)",
+  "jukebox_song.wave4.mclofi.bromeliad": "Monolism - Bromeliad - LoFi Remix (Original: Aaron Cherof)",
+  "jukebox_song.wave4.mclofi.crescent_dunes": "Monolism - Crescent Dunes - LoFi Remix (Original: Aaron Cherof)",
+  "jukebox_song.wave4.mclofi.relic_remix": "Monolism - Relic - LoFi Remix (Original: Aaron Cherof)",
   
-  "jukebox_song.wave5.mclofi.dalarna_1": "ptr. - Dalarna - LoFi Remix (Original: Peter Hont)",
-  "jukebox_song.wave5.mclofi.coral_rise": "o k h o - Coral Rise - LoFi Remix (Original: Peter Hont)",
-  "jukebox_song.wave5.mclofi.desert_temple": "Wun Two - Desert Temple - LoFi Remix (Original: Johan Johnson)",
-  "jukebox_song.wave5.mclofi.broken_heart_of_ender": "eevee - Broken Heart of Ender - LoFi Remix (Original: Peter Hont)",
-  "jukebox_song.wave5.mclofi.mooshroom_island": "Esbe - Mooshroom Island - LoFi Remix (Original: Samuel Åberg)",
-  "jukebox_song.wave5.mclofi.dalarna_2": "The Deli - Dalarna - LoFi Remix (Original: Peter Hont)",
-  "jukebox_song.wave5.mclofi.evoker": "o k h o - Evoker - LoFi Remix (Original: Peter Hont)",
-  "jukebox_song.wave5.mclofi.halland": "Wun Two - Halland - LoFi Remix (Original: Johan Johnson)",
-  "jukebox_song.wave5.mclofi.ghast": "Esbe - Ghast - LoFi Remix (Original: Peter Hont)",
-  "jukebox_song.wave5.mclofi.crimson_forest": "The Deli - Crimson Forest - LoFi Remix (Original: Eugnosis)",
-  "jukebox_song.wave5.mclofi.the_arch_illager": "eevee - The Arch Illager - LoFi Remix (Original: Peter Hont)",
+  "jukebox_song.wave4.mclofi.dalarna_1": "ptr. - Dalarna - LoFi Remix (Original: Peter Hont)",
+  "jukebox_song.wave4.mclofi.coral_rise": "o k h o - Coral Rise - LoFi Remix (Original: Peter Hont)",
+  "jukebox_song.wave4.mclofi.desert_temple": "Wun Two - Desert Temple - LoFi Remix (Original: Johan Johnson)",
+  "jukebox_song.wave4.mclofi.broken_heart_of_ender": "eevee - Broken Heart of Ender - LoFi Remix (Original: Peter Hont)",
+  "jukebox_song.wave4.mclofi.mooshroom_island": "Esbe - Mooshroom Island - LoFi Remix (Original: Samuel Åberg)",
+  "jukebox_song.wave4.mclofi.dalarna_2": "The Deli - Dalarna - LoFi Remix (Original: Peter Hont)",
+  "jukebox_song.wave4.mclofi.evoker": "o k h o - Evoker - LoFi Remix (Original: Peter Hont)",
+  "jukebox_song.wave4.mclofi.halland": "Wun Two - Halland - LoFi Remix (Original: Johan Johnson)",
+  "jukebox_song.wave4.mclofi.ghast": "Esbe - Ghast - LoFi Remix (Original: Peter Hont)",
+  "jukebox_song.wave4.mclofi.crimson_forest": "The Deli - Crimson Forest - LoFi Remix (Original: Eugnosis)",
+  "jukebox_song.wave4.mclofi.the_arch_illager": "eevee - The Arch Illager - LoFi Remix (Original: Peter Hont)",
   
-  "jukebox_song.wave5.mclofi.the_well_of_fate": "Hendric Buenck - The Well of Fate - LoFi Remix (Original: Crispin Hands)",
-  "jukebox_song.wave5.mclofi.new_worlds_new_adventures": "Hendric Buenck - New Worlds, New Adventures - LoFi Remix (Original: Crispin Hands)",
-  "jukebox_song.wave5.mclofi.the_coming_war": "Ian Shi - The Coming War - LoFi Remix (Original: Crispin Hands)",
-  "jukebox_song.wave5.mclofi.a_day_long_awaited": "Adam Lukas - A Day Long Awaited - LoFi Remix (Original: Crispin Hands)",
-  "jukebox_song.wave5.mclofi.the_green_expanse": "James Everingham - The Green Expanse - LoFi Remix (Original: Crispin Hands)",
-  "jukebox_song.wave5.mclofi.blue_ice_white_snow": "Hendric Buenck - Blue Ice, White Snow - LoFi Remix (Original: Crispin Hands)",
-  "jukebox_song.wave5.mclofi.alone_with_the_sky": "Adam Lukas - Alone with the Sky - LoFi Remix (Original: Crispin Hands)",
-  "jukebox_song.wave5.mclofi.a_time_of_legends": "James Everingham -  A Time of Legends - LoFi Remix (Original: Crispin Hands)",
-  "jukebox_song.wave5.mclofi.lute_skit": "Minecraft Legends - Lute Skit",
-
-
+  "jukebox_song.wave4.mclofi.the_well_of_fate": "Hendric Buenck - The Well of Fate - LoFi Remix (Original: Crispin Hands)",
+  "jukebox_song.wave4.mclofi.new_worlds_new_adventures": "Hendric Buenck - New Worlds, New Adventures - LoFi Remix (Original: Crispin Hands)",
+  "jukebox_song.wave4.mclofi.the_coming_war": "Ian Shi - The Coming War - LoFi Remix (Original: Crispin Hands)",
+  "jukebox_song.wave4.mclofi.a_day_long_awaited": "Adam Lukas - A Day Long Awaited - LoFi Remix (Original: Crispin Hands)",
+  "jukebox_song.wave4.mclofi.the_green_expanse": "James Everingham - The Green Expanse - LoFi Remix (Original: Crispin Hands)",
+  "jukebox_song.wave4.mclofi.blue_ice_white_snow": "Hendric Buenck - Blue Ice, White Snow - LoFi Remix (Original: Crispin Hands)",
+  "jukebox_song.wave4.mclofi.alone_with_the_sky": "Adam Lukas - Alone with the Sky - LoFi Remix (Original: Crispin Hands)",
+  "jukebox_song.wave4.mclofi.a_time_of_legends": "James Everingham -  A Time of Legends - LoFi Remix (Original: Crispin Hands)",
+  "jukebox_song.wave4.mclofi.lute_skit": "Minecraft Legends - Lute Skit",
 
   "records.wave4.cg5_sweden": "CG5 - Sweden (with Lyrics)",
   "records.wave4.hardcore_disc": "K620 - Extreme Intensity",
   "records.wave4.sweet_dreams": "Eurythmics - Sweet Dreams (Are Made Of This)",
   
-  "records.wave5.mining.echo_in_the_wind_remix": "Monolism - Echo In The Wind - LoFi Remix (Original: Aaron Cherof)",
-  "records.wave5.mining.a_familiar_room_remix": "Monolism - A Familiar Room - LoFi Remix (Original: Aaron Cherof)",
-  "records.wave5.mining.bromeliad_remix": "Monolism - Bromeliad - LoFi Remix (Original: Aaron Cherof)",
-  "records.wave5.mining.crescent_dunes_remix": "Monolism - Crescent Dunes - LoFi Remix (Original: Aaron Cherof)",
-  "records.wave5.mining.relic_remix": "Monolism - Relic - LoFi Remix (Original: Aaron Cherof)",
+  "records.wave4.mining.echo_in_the_wind_remix": "Monolism - Echo In The Wind - LoFi Remix (Original: Aaron Cherof)",
+  "records.wave4.mining.a_familiar_room_remix": "Monolism - A Familiar Room - LoFi Remix (Original: Aaron Cherof)",
+  "records.wave4.mining.bromeliad_remix": "Monolism - Bromeliad - LoFi Remix (Original: Aaron Cherof)",
+  "records.wave4.mining.crescent_dunes_remix": "Monolism - Crescent Dunes - LoFi Remix (Original: Aaron Cherof)",
+  "records.wave4.mining.relic_remix": "Monolism - Relic - LoFi Remix (Original: Aaron Cherof)",
   
-  "records.wave5.dungeons.dalarna1_remix": "ptr. - Dalarna - LoFi Remix (Original: Peter Hont)",
-  "records.wave5.dungeons.coral_rise_remix": "o k h o - Coral Rise - LoFi Remix (Original: Peter Hont)",
-  "records.wave5.dungeons.desert_temple_remix": "Wun Two - Desert Temple - LoFi Remix (Original: Johan Johnson)",
-  "records.wave5.dungeons.broken_heart_of_ender_remix": "eevee - Broken Heart of Ender - LoFi Remix (Original: Peter Hont)",
-  "records.wave5.dungeons.mooshroom_island_remix": "Esbe - Mooshroom Island - LoFi Remix (Original: Samuel Åberg)",
-  "records.wave5.dungeons.dalarna2_remix": "The Deli - Dalarna - LoFi Remix (Original: Peter Hont)",
-  "records.wave5.dungeons.evoker_remix": "o k h o - Evoker - LoFi Remix (Original: Peter Hont)",
-  "records.wave5.dungeons.halland_remix": "Wun Two - Halland - LoFi Remix (Original: Johan Johnson)",
-  "records.wave5.dungeons.ghast_remix": "Esbe - Ghast - LoFi Remix (Original: Peter Hont)",
-  "records.wave5.dungeons.crimson_forest_remix": "The Deli - Crimson Forest - LoFi Remix (Original: Eugnosis)",
-  "records.wave5.dungeons.the_arch_illager_remix": "eevee - The Arch Illager - LoFi Remix (Original: Peter Hont)",
+  "records.wave4.dungeons.dalarna1_remix": "ptr. - Dalarna - LoFi Remix (Original: Peter Hont)",
+  "records.wave4.dungeons.coral_rise_remix": "o k h o - Coral Rise - LoFi Remix (Original: Peter Hont)",
+  "records.wave4.dungeons.desert_temple_remix": "Wun Two - Desert Temple - LoFi Remix (Original: Johan Johnson)",
+  "records.wave4.dungeons.broken_heart_of_ender_remix": "eevee - Broken Heart of Ender - LoFi Remix (Original: Peter Hont)",
+  "records.wave4.dungeons.mooshroom_island_remix": "Esbe - Mooshroom Island - LoFi Remix (Original: Samuel Åberg)",
+  "records.wave4.dungeons.dalarna2_remix": "The Deli - Dalarna - LoFi Remix (Original: Peter Hont)",
+  "records.wave4.dungeons.evoker_remix": "o k h o - Evoker - LoFi Remix (Original: Peter Hont)",
+  "records.wave4.dungeons.halland_remix": "Wun Two - Halland - LoFi Remix (Original: Johan Johnson)",
+  "records.wave4.dungeons.ghast_remix": "Esbe - Ghast - LoFi Remix (Original: Peter Hont)",
+  "records.wave4.dungeons.crimson_forest_remix": "The Deli - Crimson Forest - LoFi Remix (Original: Eugnosis)",
+  "records.wave4.dungeons.the_arch_illager_remix": "eevee - The Arch Illager - LoFi Remix (Original: Peter Hont)",
   
-  "records.wave5.legends.the_well_of_fate_remix": "Hendric Buenck - The Well of Fate - LoFi Remix (Original: Crispin Hands)",
-  "records.wave5.legends.new_worlds_new_adventures_remix": "Hendric Buenck - New Worlds, New Adventures - LoFi Remix (Original: Crispin Hands)",
-  "records.wave5.legends.the_coming_war_remix": "Ian Shi - The Coming War - LoFi Remix (Original: Crispin Hands)",
-  "records.wave5.legends.a_day_long_awaited_remix": "Adam Lukas - A Day Long Awaited - LoFi Remix (Original: Crispin Hands)",
-  "records.wave5.legends.the_green_expanse_remix": "James Everingham - The Green Expanse - LoFi Remix (Original: Crispin Hands)",
-  "records.wave5.legends.blue_ice_white_snow_remix": "Hendric Buenck - Blue Ice, White Snow - LoFi Remix (Original: Crispin Hands)",
-  "records.wave5.legends.alone_with_the_sky_remix": "Adam Lukas - Alone with the Sky - LoFi Remix (Original: Crispin Hands)",
-  "records.wave5.legends.a_time_of_legends_remix": "James Everingham -  A Time of Legends - LoFi Remix (Original: Crispin Hands)",
-  "records.wave5.legends.lute_skit": "Minecraft Legends - Lute Skit",
+  "records.wave4.legends.the_well_of_fate_remix": "Hendric Buenck - The Well of Fate - LoFi Remix (Original: Crispin Hands)",
+  "records.wave4.legends.new_worlds_new_adventures_remix": "Hendric Buenck - New Worlds, New Adventures - LoFi Remix (Original: Crispin Hands)",
+  "records.wave4.legends.the_coming_war_remix": "Ian Shi - The Coming War - LoFi Remix (Original: Crispin Hands)",
+  "records.wave4.legends.a_day_long_awaited_remix": "Adam Lukas - A Day Long Awaited - LoFi Remix (Original: Crispin Hands)",
+  "records.wave4.legends.the_green_expanse_remix": "James Everingham - The Green Expanse - LoFi Remix (Original: Crispin Hands)",
+  "records.wave4.legends.blue_ice_white_snow_remix": "Hendric Buenck - Blue Ice, White Snow - LoFi Remix (Original: Crispin Hands)",
+  "records.wave4.legends.alone_with_the_sky_remix": "Adam Lukas - Alone with the Sky - LoFi Remix (Original: Crispin Hands)",
+  "records.wave4.legends.a_time_of_legends_remix": "James Everingham -  A Time of Legends - LoFi Remix (Original: Crispin Hands)",
+  "records.wave4.legends.lute_skit": "Minecraft Legends - Lute Skit",
 
 
-  "cmd.dialog.wave6": "Wave 6",
+  "cmd.dialog.wave5": "Wave 5",
 
 
   "jukebox_song.wave5.minecraft_shape_your_world": "Douglas Haines x Minecraft - Shape Your World",
   "jukebox_song.wave5.thefatrat_fly_away": "TheFatRat - Fly Away (feat. Anjulie)",
   "jukebox_song.wave5.thefatrat_sail_away": "TheFatRat - Sail Away (feat. Laura Brehm)",
 
-  "jukebox_song.wave6.undertale.once_upon_a_time": "Toby Fox - Once Upon A Time",
-  "jukebox_song.wave6.undertale.fallen_down": "Toby Fox - Fallen Down",
-  "jukebox_song.wave6.undertale.ruins": "Toby Fox - Ruins",
-  "jukebox_song.wave6.undertale.uwa_so_temperate": "Toby Fox - Uwa!! So Temperate",
-  "jukebox_song.wave6.undertale.enemy_approaching": "Toby Fox - Enemy Approaching",
-  "jukebox_song.wave6.undertale.ghost_fight": "Toby Fox - Ghost Fight",
-  "jukebox_song.wave6.undertale.determination": "Toby Fox - Determination",
-  "jukebox_song.wave6.undertale.home": "Toby Fox - Home",
-  "jukebox_song.wave6.undertale.home_music_box": "Toby Fox - Home (Music Box)",
-  "jukebox_song.wave6.undertale.heartache": "Toby Fox - Heartache",
-  "jukebox_song.wave6.undertale.sans": "Toby Fox - Sans.",
-  "jukebox_song.wave6.undertale.snowy": "Toby Fox - Snowy",
-  "jukebox_song.wave6.undertale.dogsong": "Toby Fox - Dogsong",
+  "jukebox_song.wave5.undertale.once_upon_a_time": "Toby Fox - Once Upon A Time",
+  "jukebox_song.wave5.undertale.fallen_down": "Toby Fox - Fallen Down",
+  "jukebox_song.wave5.undertale.ruins": "Toby Fox - Ruins",
+  "jukebox_song.wave5.undertale.uwa_so_temperate": "Toby Fox - Uwa!! So Temperate",
+  "jukebox_song.wave5.undertale.enemy_approaching": "Toby Fox - Enemy Approaching",
+  "jukebox_song.wave5.undertale.ghost_fight": "Toby Fox - Ghost Fight",
+  "jukebox_song.wave5.undertale.determination": "Toby Fox - Determination",
+  "jukebox_song.wave5.undertale.home": "Toby Fox - Home",
+  "jukebox_song.wave5.undertale.home_music_box": "Toby Fox - Home (Music Box)",
+  "jukebox_song.wave5.undertale.heartache": "Toby Fox - Heartache",
+  "jukebox_song.wave5.undertale.sans": "Toby Fox - Sans.",
+  "jukebox_song.wave5.undertale.snowy": "Toby Fox - Snowy",
+  "jukebox_song.wave5.undertale.dogsong": "Toby Fox - Dogsong",
 
   "jukebox_song.wave5.happy_birthday": "Happy Birthday!",
-  "jukebox_song.wave6.soothing.farm": "Soothing Minecraft - Relaxing Farm Morning",
-
-
+  "jukebox_song.wave5.soothing.farm": "Soothing Minecraft - Relaxing Farm Morning",
 
   "records.wave5.minecraft_shape_your_world": "Douglas Haines x Minecraft - Shape Your World",
   "records.wave5.thefatrat_fly_away": "TheFatRat - Fly Away (feat. Anjulie)",
   "records.wave5.thefatrat_sail_away": "TheFatRat - Sail Away (feat. Laura Brehm)",
 
-  "records.wave6.undertale.001_once_upon_a_time": "Toby Fox - Once Upon A Time",
-  "records.wave6.undertale.004_fallen_down": "Toby Fox - Fallen Down",
-  "records.wave6.undertale.005_ruins": "Toby Fox - Ruins",
-  "records.wave6.undertale.006_uwa_so_temperate": "Toby Fox - Uwa!! So Temperate",
-  "records.wave6.undertale.009_enemy_approaching": "Toby Fox - Enemy Approaching",
-  "records.wave6.undertale.010_ghost_fight": "Toby Fox - Ghost Fight",
-  "records.wave6.undertale.011_determination": "Toby Fox - Determination",
-  "records.wave6.undertale.012_home": "Toby Fox - Home",
-  "records.wave6.undertale.013_home_music_box": "Toby Fox - Home (Music Box)",
-  "records.wave6.undertale.014_heartache": "Toby Fox - Heartache",
-  "records.wave6.undertale.015_sans": "Toby Fox - Sans.",
-  "records.wave6.undertale.017_snowy": "Toby Fox - Snowy",
-  "records.wave6.undertale.021_dogsong": "Toby Fox - Dogsong",
+  "records.wave5.undertale.001_once_upon_a_time": "Toby Fox - Once Upon A Time",
+  "records.wave5.undertale.004_fallen_down": "Toby Fox - Fallen Down",
+  "records.wave5.undertale.005_ruins": "Toby Fox - Ruins",
+  "records.wave5.undertale.006_uwa_so_temperate": "Toby Fox - Uwa!! So Temperate",
+  "records.wave5.undertale.009_enemy_approaching": "Toby Fox - Enemy Approaching",
+  "records.wave5.undertale.010_ghost_fight": "Toby Fox - Ghost Fight",
+  "records.wave5.undertale.011_determination": "Toby Fox - Determination",
+  "records.wave5.undertale.012_home": "Toby Fox - Home",
+  "records.wave5.undertale.013_home_music_box": "Toby Fox - Home (Music Box)",
+  "records.wave5.undertale.014_heartache": "Toby Fox - Heartache",
+  "records.wave5.undertale.015_sans": "Toby Fox - Sans.",
+  "records.wave5.undertale.017_snowy": "Toby Fox - Snowy",
+  "records.wave5.undertale.021_dogsong": "Toby Fox - Dogsong",
   "records.wave5.happy_birthday": "Happy Birthday!",
 
 
-  "cmd.dialog.wave7": "Wave 7",
+  "cmd.dialog.wave6": "Wave 6",
 
 
   "jukebox_song.wave6.thefatrat_mayday": "TheFatRat - Mayday (feat. Laura Brehm)",
@@ -307,20 +287,18 @@
   "jukebox_song.wave6.villager_lullaby": "DanTDM - Villager Lullaby",
   "jukebox_song.wave6.forrest_frank_your_ways_better": "Forrest Frank - YOUR WAY'S BETTER",
 
-  "jukebox_song.wave7.pixel_remix.creator": "leon chang - Creator - Pixel Remix (Original: Lena Raine)",
-  "jukebox_song.wave7.pixel_remix.deeper": "Elliot Hsu - Deeper - Pixel Remix (Original: Lena Raine)",
-  "jukebox_song.wave7.pixel_remix.eld_unknown": "Elliot Hsu - Eld Unknown - Pixel Remix (Original: Lena Raine)",
-  "jukebox_song.wave7.pixel_remix.endless": "Anamanaguchi - Endless - Pixel Remix (Original: Lena Raine)",
-  "jukebox_song.wave7.pixel_remix.featherfall": "Hyper Potions - Featherfall - Pixel Remix (Original: Aaron Cherof)",
-  "jukebox_song.wave7.pixel_remix.infinite_amethyst": "Snail's House - Infinite Amethyst - Pixel Remix (Original: Lena Raine)",
-  "jukebox_song.wave7.pixel_remix.komorebi": "AIKA - komorebi - Pixel Remix (Original: Kumi Tanioka)",
-  "jukebox_song.wave7.pixel_remix.pokopoko": "Synthion - pokopoko - Pixel Remix (Original: Kumi Tanioka)",
-  "jukebox_song.wave7.pixel_remix.precipice": "Hyper Potions - Precipice - Pixel Remix (Original: Aaron Cherof)",
-  "jukebox_song.wave7.pixel_remix.puzzlebox": "AIKA - Puzzlebox - Pixel Remix (Original: Aaron Cherof)",
-  "jukebox_song.wave7.pixel_remix.watcher": "Synthion - Watcher - Pixel Remix (Original: Aaron Cherof)",
-  "jukebox_song.wave7.pixel_remix.yakusoku": "leon chang - yakusoku - Pixel Remix (Original: Kumi Tanioka)",
-
-
+  "jukebox_song.wave6.pixel_remix.creator": "leon chang - Creator - Pixel Remix (Original: Lena Raine)",
+  "jukebox_song.wave6.pixel_remix.deeper": "Elliot Hsu - Deeper - Pixel Remix (Original: Lena Raine)",
+  "jukebox_song.wave6.pixel_remix.eld_unknown": "Elliot Hsu - Eld Unknown - Pixel Remix (Original: Lena Raine)",
+  "jukebox_song.wave6.pixel_remix.endless": "Anamanaguchi - Endless - Pixel Remix (Original: Lena Raine)",
+  "jukebox_song.wave6.pixel_remix.featherfall": "Hyper Potions - Featherfall - Pixel Remix (Original: Aaron Cherof)",
+  "jukebox_song.wave6.pixel_remix.infinite_amethyst": "Snail's House - Infinite Amethyst - Pixel Remix (Original: Lena Raine)",
+  "jukebox_song.wave6.pixel_remix.komorebi": "AIKA - komorebi - Pixel Remix (Original: Kumi Tanioka)",
+  "jukebox_song.wave6.pixel_remix.pokopoko": "Synthion - pokopoko - Pixel Remix (Original: Kumi Tanioka)",
+  "jukebox_song.wave6.pixel_remix.precipice": "Hyper Potions - Precipice - Pixel Remix (Original: Aaron Cherof)",
+  "jukebox_song.wave6.pixel_remix.puzzlebox": "AIKA - Puzzlebox - Pixel Remix (Original: Aaron Cherof)",
+  "jukebox_song.wave6.pixel_remix.watcher": "Synthion - Watcher - Pixel Remix (Original: Aaron Cherof)",
+  "jukebox_song.wave6.pixel_remix.yakusoku": "leon chang - yakusoku - Pixel Remix (Original: Kumi Tanioka)",
 
   "records.wave6.creator_pixel_remix": "leon chang - Creator - Pixel Remix (Original: Lena Raine)",
   "records.wave6.deeper_pixel_remix": "Elliot Hsu - Deeper - Pixel Remix (Original: Lena Raine)",
@@ -335,7 +313,6 @@
   "records.wave6.watcher_pixel_remix": "Synthion - Watcher - Pixel Remix (Original: Aaron Cherof)",
   "records.wave6.yakusoku_pixel_remix": "leon chang - yakusoku - Pixel Remix (Original: Kumi Tanioka)",
 
-
   "jukebox_song.wave6.copper_golem": "Camilo Forero - Copper Golem",
   "jukebox_song.wave6.crafters_candy_canes": "Gareth Coker - Crafter's Candy Canes",
   "jukebox_song.wave6.infinite_spooky_amethyst": "Jukio Kallio - Infinite Spooky Amethyst (Original: Lena Raine)",
@@ -345,8 +322,6 @@
   "jukebox_song.wave6.the_copper_age": "Squeak E. Clean - The Copper Age",
   "jukebox_song.wave6.happy_ghast": "Element Animation x Minecraft - HAPPY GHAST",
   "jukebox_song.wave6.wondrous_workshop": "Gareth Coker - Wondrous Workshop",
-
-
 
   "records.wave6.copper_golem": "Camilo Forero - Copper Golem",
   "records.wave6.crafters_candy_canes": "Gareth Coker - Crafter's Candy Canes",
@@ -359,6 +334,9 @@
   "records.wave6.wondrous_workshop": "Gareth Coker - Wondrous Workshop",
 
 
+  "cmd.dialog.wave7": "Wave 7",
+
+
   "jukebox_song.wave7.dont_mine_at_night": "Bebop Vox - Don't Mine At Night",
   "jukebox_song.wave7.dragonhearted": "CaptainSparklez & TryHardNinja - Dragonhearted",
   "jukebox_song.wave7.find_the_pieces": "CaptainSparklez & TryHardNinja - Find the Pieces",
@@ -366,16 +344,12 @@
   "jukebox_song.wave7.take_back_the_night": "CaptainSparklez & TryHardNinja - Take Back the Night",
   "jukebox_song.wave7.you_can_find_it": "TryHardNinja - You Can Find It",
 
-
-
   "records.wave7.dont_mine_at_night": "Bebop Vox - Don't Mine At Night",
   "records.wave7.dragonhearted": "CaptainSparklez & TryHardNinja - Dragonhearted",
   "records.wave7.find_the_pieces": "CaptainSparklez & TryHardNinja - Find the Pieces",
   "records.wave7.rising_kingdom": "CaptainSparklez & TryHardNinja - Rising Kingdom",
   "records.wave7.take_back_the_night": "CaptainSparklez & TryHardNinja - Take Back the Night",
   "records.wave7.you_can_find_it": "TryHardNinja - You Can Find It",
-
-
 
   "jukebox_song.wave7.level_1": "Nut3iiA - Survive (Level! Part 1)",
   "jukebox_song.wave7.level_2": "Nut3iiA - Panic (Level! Part 2)",
@@ -388,11 +362,9 @@
   "jukebox_song.wave7.pokemon_dpp_trainer_battle": "Junichi Masuda - Pearl & Platinum (Trainer Battle Music)",
   "jukebox_song.wave7.pokemon_theme_song": "John Siegler & John Loeffler - Pokémon Theme",
 
-
-
-  "records.wave7.level_1": "Nut3iiA - Level! Part 1",
-  "records.wave7.level_2": "Nut3iiA - Level! Part 2",
-  "records.wave7.level_3": "Nut3iiA - Level! Part 3",
+  "records.wave7.level_1": "Nut3iiA - Survive (Level! Part 1)",
+  "records.wave7.level_2": "Nut3iiA - Panic (Level! Part 2)",
+  "records.wave7.level_3": "Nut3iiA - Run (Level! Part 3)",
   "records.wave7.departure": "Masatoshi Ono - Departure (from Hunter X Hunter)",
   "records.wave7.cruel_angels_thesis": "Shiro Sagisu - The Cruel Angel's Thesis (Director's Edit Version)",
   "records.wave7.pokemon_battle_frontier": "John Loeffler & David Wolfert - Battle Frontier",
@@ -400,8 +372,6 @@
   "records.wave7.pokemon_black_and_white_theme": "John Loeffler & David Wolfert - Black and White",
   "records.wave7.pokemon_dpp_trainer_battle": "Junichi Masuda - Pearl & Platinum (Trainer Battle Music)",
   "records.wave7.pokemon_theme_song": "John Siegler & John Loeffler - Pokémon Theme",
-
-  
 
   "jukebox_song.wave7.deltarune.a_dark_zone": "Toby Fox - A DARK ZONE",
   "jukebox_song.wave7.deltarune.black_knife": "Toby Fox - Black Knife",
@@ -418,8 +388,6 @@
   "jukebox_song.wave7.deltarune.the_third_sanctuary": "Toby Fox - The Third Sanctuary",
   "jukebox_song.wave7.deltarune.tv_world": "Toby Fox - TV WORLD",
   "jukebox_song.wave7.deltarune.welcome_to_the_green_room": "Toby Fox - Welcome to the Green Room",
-
-
 
   "records.wave7.deltarune.a_dark_zone": "Toby Fox - A DARK ZONE",
   "records.wave7.deltarune.black_knife": "Toby Fox - Black Knife",

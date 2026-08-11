@@ -120,17 +120,17 @@
                 }
             },
             {
-                "when": "soothing_cherrygrove",
+                "when": "soothing_cherry_grove",
                 "model": {
                     "type": "model",
-                    "model": "item/wave1/soothing_cherrygrove"
+                    "model": "item/wave1/soothing_cherry_grove"
                 }
             },
             {
-                "when": "soothing_dreamydesert",
+                "when": "soothing_dreamy_desert",
                 "model": {
                     "type": "model",
-                    "model": "item/wave1/soothing_dreamydesert"
+                    "model": "item/wave1/soothing_dreamy_desert"
                 }
             },
             {
@@ -141,31 +141,31 @@
                 }
             },
             {
-                "when": "soothing_glowingcaves",
+                "when": "soothing_glowing_caves",
                 "model": {
                     "type": "model",
-                    "model": "item/wave1/soothing_glowingcaves"
+                    "model": "item/wave1/soothing_glowing_caves"
                 }
             },
             {
-                "when": "soothing_rainyswamp",
+                "when": "soothing_rainy_swamp",
                 "model": {
                     "type": "model",
-                    "model": "item/wave1/soothing_rainyswamp"
+                    "model": "item/wave1/soothing_rainy_swamp"
                 }
             },
             {
-                "when": "soothing_fallingsnow",
+                "when": "soothing_falling_snow",
                 "model": {
                     "type": "model",
-                    "model": "item/wave1/soothing_fallingsnow"
+                    "model": "item/wave1/soothing_falling_snow"
                 }
             },
             {
-                "when": "soothing_serenesnow",
+                "when": "soothing_serene_snow",
                 "model": {
                     "type": "model",
-                    "model": "item/wave1/soothing_serenesnow"
+                    "model": "item/wave1/soothing_serene_snow"
                 }
             },
             {

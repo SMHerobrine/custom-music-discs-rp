@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/wave1/soothing_cherrygrove"
+        "layer0": "item/wave1/soothing_serene_snow"
     }
 }

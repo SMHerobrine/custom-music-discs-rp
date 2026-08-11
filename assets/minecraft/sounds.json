@@ -127,18 +127,18 @@
             }
         ]
     },
-    "music_disc.soothing_cherrygrove": {
+    "music_disc.soothing_cherry_grove": {
         "sounds": [
             {
-                "name": "records/wave1/soothing_cherrygrove",
+                "name": "records/wave1/soothing_cherry_grove",
                 "stream": true
             }
         ]
     },
-    "music_disc.soothing_dreamydesert": {
+    "music_disc.soothing_dreamy_desert": {
         "sounds": [
             {
-                "name": "records/wave1/soothing_dreamydesert",
+                "name": "records/wave1/soothing_dreamy_desert",
                 "stream": true
             }
         ]
@@ -151,34 +151,34 @@
             }
         ]
     },
-    "music_disc.soothing_glowingcaves": {
+    "music_disc.soothing_glowing_caves": {
         "sounds": [
             {
-                "name": "records/wave1/soothing_glowingcaves",
+                "name": "records/wave1/soothing_glowing_caves",
                 "stream": true
             }
         ]
     },
-    "music_disc.soothing_rainyswamp": {
+    "music_disc.soothing_rainy_swamp": {
         "sounds": [
             {
-                "name": "records/wave1/soothing_rainyswamp",
+                "name": "records/wave1/soothing_rainy_swamp",
                 "stream": true
             }
         ]
     },
-    "music_disc.soothing_fallingsnow": {
+    "music_disc.soothing_falling_snow": {
         "sounds": [
             {
-                "name": "records/wave1/soothing_fallingsnow",
+                "name": "records/wave1/soothing_falling_snow",
                 "stream": true
             }
         ]
     },
-    "music_disc.soothing_serenesnow": {
+    "music_disc.soothing_serene_snow": {
         "sounds": [
             {
-                "name": "records/wave1/soothing_serenesnow",
+                "name": "records/wave1/soothing_serene_snow",
                 "stream": true
             }
         ]

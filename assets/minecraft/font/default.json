@@ -170,7 +170,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave3_bitch_lasanga.png",
+            "file": "minecraft:item/recipes/wave2_bitch_lasanga.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE024"]
@@ -184,7 +184,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave3_dan_dab_lasanga.png",
+            "file": "minecraft:item/recipes/wave2_dan_dab_lasanga.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE026"]
@@ -226,56 +226,56 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave3_in_the_final.png",
+            "file": "minecraft:item/recipes/wave2_in_the_final.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE032"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave4_ally_rap.png",
+            "file": "minecraft:item/recipes/wave3_ally_rap.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE033"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave4_bee_rap.png",
+            "file": "minecraft:item/recipes/wave3_bee_rap.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE034"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave4_fox_rap.png",
+            "file": "minecraft:item/recipes/wave3_fox_rap.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE035"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave4_mc_anime.png",
+            "file": "minecraft:item/recipes/wave3_mc_anime.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE036"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave4_mc_lego_rap.png",
+            "file": "minecraft:item/recipes/wave3_mc_lego_rap.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE037"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave4_mice_on_venus_aca.png",
+            "file": "minecraft:item/recipes/wave3_mice_on_venus_acapella.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE038"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave4_pigstep_upgrade.png",
+            "file": "minecraft:item/recipes/wave3_pigstep_upgrade.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE039"]
@@ -289,21 +289,21 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave4_rickroll.png",
+            "file": "minecraft:item/recipes/wave3_rickroll.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE041"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave4_skeleton_remix.png",
+            "file": "minecraft:item/recipes/wave3_skeleton_remix.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE042"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/wave4_subwoolfer_orchestra.png",
+            "file": "minecraft:item/recipes/wave3_subwoolfer_orchestra.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE043"]
@@ -660,28 +660,28 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/lite7_creator_pixel_remix.png",
+            "file": "minecraft:item/recipes/lite6_creator_pixel_remix.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE094"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/lite7_precipice_pixel_remix.png",
+            "file": "minecraft:item/recipes/lite6_precipice_pixel_remix.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE095"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/lite7_puzzlebox_pixel_remix.png",
+            "file": "minecraft:item/recipes/lite6_puzzlebox_pixel_remix.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE096"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/recipes/lite7_thefatrat_mayday.png",
+            "file": "minecraft:item/recipes/lite6_thefatrat_mayday.png",
             "ascent": 1,
             "height": 155,
             "chars": ["\uE097"]
