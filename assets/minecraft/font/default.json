@@ -776,6 +776,104 @@
             "ascent": 1,
             "height": 155,
             "chars": ["\uE110"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_cruel_angels_thesis.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE111"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_deltarune_dark_sanctuary.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE112"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_deltarune_from_now_on.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE113"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_deltarune_glaceir.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE114"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_deltarune_hammer_of_justice.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE115"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_deltarune_its_tv_time.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE116"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_deltarune_tv_world.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE117"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_deltarune_welcome_to_the_green_room.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE118"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_departure.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE119"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_level_1.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE120"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_pokemon_be_a_hero.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE121"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_pokemon_black_and_white_theme.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE122"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_pokemon_dpp_trainer_battle.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE123"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/recipes/wave7_pokemon_theme_song.png",
+            "ascent": 1,
+            "height": 155,
+            "chars": ["\uE124"]
         }
     ]
 }

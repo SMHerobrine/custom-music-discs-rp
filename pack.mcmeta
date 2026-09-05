@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 97,
         "min_format": [97, 0],
-	    "max_format": [97, 0],
+	    "max_format": [98, 0],
         "description": "Enhancing Your Minecraft Soundtrack, One Disc at a Time"
     }
 }
